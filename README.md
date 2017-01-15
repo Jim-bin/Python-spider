@@ -15,14 +15,15 @@ By [Jim-Bin](https://github.com/Jim-bin).
 
 ####Installation
 
-    > git clone https://github.com/ZhangBohan/fun_crawler.git
-    > cd fun_crawler
+    > git clone https://github.com/Jim-bin/Python-spider.git
+    > cd Python-spider
     > sudo easy_install virtualenv
     > virtualenv venv
-    > source venv/bin/activate
-    > python setup.py --requires | xargs pip install
+    > windows下按照如下方式激活虚拟环境: venv\Scripts\activate
+      linux下按照如下方式激活虚拟环境:   source venv/bin/activate
+    > pip install bs4
+      pip install requests
     
 ####Usage
 
  * 妹子图：`python meizitu_pro.py`
- * coser `scrapy crawl coser -o items.csv -t csv`
