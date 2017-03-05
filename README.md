@@ -14,6 +14,7 @@ By [Jim-Bin](https://github.com/Jim-bin).
 ####Installation
 
     > pip install bs4
+    
     > pip install requests
     
 ####Usage
