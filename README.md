@@ -8,13 +8,13 @@ By [Jim-Bin](https://github.com/Jim-bin).
 
 ####Description
 
-目标是爬取妹子图图片
-目前实现的爬取[妹子图](http://www.meizitu.com/)，
+实现的爬取[妹子图](http://www.meizitu.com/)
 
+#### 下载meizitu3.py
 ####Installation
 
     > pip install bs4
-      pip install requests
+    > pip install requests
     
 ####Usage
 
