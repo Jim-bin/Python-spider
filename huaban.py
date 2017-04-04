@@ -5,9 +5,8 @@ python 2.7.12
 '''
 
 import requests
-from parsel import Selector
 import time
-import re, random, os
+import re, os
 
 
 def scraw_pin_ids():
