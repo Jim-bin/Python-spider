@@ -104,7 +104,7 @@ nums=5
 # 图片存储路径，在linux系统下
 file_path = '/home/zhangyb/downloadfiles/pythonpro/biaoqing'
 # 图片存储路径，在windows系统下
-# file_path = 'E:\selfprogress\programming\project\meizitu'
+# file_path = 'E:\downloadfiles\pythonpro\biaoqing'
 urls = scrapy_img_urls(nums)
 for i in urls:
     print(i)
