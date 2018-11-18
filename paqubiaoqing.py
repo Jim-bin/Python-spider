@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 
 '''
-python 2.7.15
-win 10
+python 2.7.15或者3.7.0
+win10或者lubuntu
+
 
 '''
 
@@ -11,40 +12,21 @@ import time
 import requests, re, random, os
 from bs4 import BeautifulSoup
 
-def scrapy_total_nums():
-    url = 'http://www.doutula.com/photo/list/?page=1'
-    html = requests.get(url, headers=headers, timeout=10)
-    html.encoding = 'utf-8'
-    text = html.text
-
-    bsop = BeautifulSoup(text, 'html.parser')
-
-
-def scrapy_list():
-    for i in range(1, pages + 1):
-        try:
-            url = 'http://www.doutula.com/photo/list/?page=' + str(i)
-            if not url_imgs:
-                continue
-            url_imgss.append(url_imgs)
-            print("第" + str(i) + "页url爬取成功")
-            time.sleep(5)  # 休息5秒篇爬取下一页
-        except:  # 如果其中某一页出错，则跳过该页，继续爬取下一页，从而不使程序中断
-            continue
-    return url_imgss
-
-
-def scrapy_img_url(url):
-    html = requests.get(url, headers=headers)
-    html.encoding = 'utf-8'
-
-    text = html.text
-    bsop = BeautifulSoup(text, 'html.parser')
-    ass = bsop.find('div', {'class': 'page-content'}).find('div').findAll('a')
+def scrapy_img_urls(nums):
     lss = []
-    for a in ass:
-        # print(a.attrs['href'])
-        lss.append(a.attrs['href'])
+    for num in range(1, nums+1):
+        url = 'http://www.doutula.com/photo/list/?page=' + str(num)
+        html = requests.get(url, headers=headers)
+        html.encoding = 'utf-8'
+
+        text = html.text
+        bsop = BeautifulSoup(text, 'html.parser')
+        ass = bsop.find('div', {'class': 'page-content'}).find('div').findAll('a')
+        
+        for a in ass:
+            # print(a.attrs['href'])
+            lss.append(a.attrs['href'])
+        time.sleep(1)
     return lss
 
 
@@ -117,12 +99,13 @@ headers = {'User-Agent': random.choice(UserAgent_List),
            'Accept': "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
            'Accept-Encoding': 'gzip',
            }
-nums=1
-# 图片存储路径
-file_path = 'E:\selfprogress\programming\project\meizitu'
 
-url = 'http://www.doutula.com/photo/list/?page=' + str(nums)
-urls = scrapy_img_url(url)
+nums=5
+# 图片存储路径，在linux系统下
+file_path = '/home/zhangyb/downloadfiles/pythonpro/biaoqing'
+# 图片存储路径，在windows系统下
+# file_path = 'E:\selfprogress\programming\project\meizitu'
+urls = scrapy_img_urls(nums)
 for i in urls:
     print(i)
     download_img_url(i)
