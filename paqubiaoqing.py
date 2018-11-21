@@ -1,10 +1,9 @@
 # -*- coding: utf-8 -*-
 
 '''
+在以下环境测试通过：
 python 2.7.15或者3.7.0
 win10或者lubuntu
-
-
 '''
 
 # 导入模块
@@ -12,6 +11,10 @@ import time
 import requests, re, random, os
 from bs4 import BeautifulSoup
 
+'''
+给定页数，爬取每页所有图片的url，通过此url可以打开图片所在的网页
+所有url存在一个列表中
+'''
 def scrapy_img_urls(nums):
     lss = []
     for num in range(1, nums+1):
@@ -29,7 +32,10 @@ def scrapy_img_urls(nums):
         time.sleep(1)
     return lss
 
-
+'''
+接收每个图片的url，打开此url，找到图片真实的地址，通过此地址可以下载图片
+找到图片真实的url和名字之后调用download_url函数可以下载图片
+'''
 def download_img_url(url):
     html = requests.get(url, headers=headers)
     html.encoding = 'utf-8'
@@ -43,10 +49,11 @@ def download_img_url(url):
 
     download_img(img_url, img_title)
 
-    # img_title = bsop.find('div', {'class': 'col-xs-12 col-sm-12 artile_des'}).findAll('img')[0].atts['alt']
-    # print(img_url + " " + img_title)
-
-
+'''
+下载图片，该函数接收两个参数，一个是图片的真实地址，一个是图片的名字
+名字中如果有特殊字符则需要处理，不然windows下可能无法保存，处理名字调用format_name函数
+打开指定文件夹保存图片，如果没有则创建。
+'''
 def download_img(img_url, img_title):
     img_title = format_name(img_title)  # 如果图册名字有特殊字符需要处理。不然在windows下保存不了文件夹
     if not os.path.exists(file_path):
