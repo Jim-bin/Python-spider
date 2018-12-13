@@ -1,0 +1,3773 @@
+<!DOCTYPE html SYSTEM "http://pubs.rsc.org/Content/dtd/custom.dtd">
+<!--[if IE 8 ]><html class="ie ie8" lang="en"><![endif]-->
+<!--[if !(IE)]><!-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<!--<![endif]-->
+<head id="Head1">
+    <title>
+        
+    Inkjet printing wearable electronic devices - Journal of Materials Chemistry C (RSC Publishing)
+
+    </title>
+    <meta charset="utf-8">
+    
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="format-detection" content="telephone=no" />
+    <link rel="shortcut icon" href="//www.rsc-cdn.org/oxygen/core/images/favicons/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="57x57" href="//www.rsc-cdn.org/oxygen/core/images/favicons/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="//www.rsc-cdn.org/oxygen/core/images/favicons/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="//www.rsc-cdn.org/oxygen/core/images/favicons/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="//www.rsc-cdn.org/oxygen/core/images/favicons/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="288x288" href="//www.rsc-cdn.org/oxygen/core/images/favicons/apple-touch-icon-288x288.png" />
+    <link rel="apple-touch-icon" href="//www.rsc-cdn.org/oxygen/core/images/favicons/apple-touch-icon-288x288.png">
+    <!--[if lt IE 9 ]>
+      <script type="text/javascript">
+      document.createElement('header');
+      document.createElement('nav');
+      document.createElement('section');
+      document.createElement('article');
+      document.createElement('aside');
+      document.createElement('footer');
+      </script>
+    <![endif]-->
+    
+    
+    <link href="https://www.rsc-cdn.org/oxygen/core/webfonts/museo.css" rel="stylesheet" type="text/css" />
+    <link href="https://www.rsc-cdn.org/pubs-core/2018.0.549/content/stylesheets/footer.css" rel="stylesheet" type="text/css" />
+
+    <link href="https://www.rsc-cdn.org/pubs-core/2018.0.549/content/stylesheets/pubs-ui.min.css" rel="stylesheet" type="text/css"/>
+
+    <script type="text/javascript">
+        //<![CDATA[
+        var externalIpAddress = '';
+        var varSuccess = 'Success'
+        var themeJournalName = "";
+        var isContentAvailable = "";
+        var articleSubmissionUrl = "";
+        var issueID_pn = '';
+        var issnPrint_pn = '';
+        var issnOnline_pn = '';
+        var doiList = '';
+        var url = '';
+        var MostReadCleanupDuration = '';
+        //]]>
+    </script>
+
+    <script src="https://www.rsc-cdn.org/pubs-core/2018.0.549/content/Scripts/pubs-ui-initial.min.js" type="text/javascript"></script>
+    <script src="https://www.rsc-cdn.org/pubs-core/2018.0.549/content/Scripts/pubs-ui.min.js" type="text/javascript"></script>
+
+    
+
+
+
+<meta name="dc.domain" content="pdf" />
+
+<script src="https://www.rsc-cdn.org/pubs-core/2018.0.549/content/Scripts/Address.js" type="text/javascript"></script>
+
+<link rel="canonical" href="https://pubs.rsc.org/en/content/articlelanding/2017/tc/c7tc00038c" />
+    <meta name="DC.Creator" content="Meng Gao" />
+<meta content="Meng Gao" name="citation_author" /><meta content="Key Laboratory of Green Printing, Institute of Chemistry, Chinese Academy of Sciences,Beijing 100190,P. R. China" name="citation_author_institution" /><meta content="School of Chemistry and Chemical Engineering, University of Chinese Academy of Sciences,Beijing 100049,P. R. China" name="citation_author_institution" />    <meta name="DC.Creator" content="Lihong Li" />
+<meta content="Lihong Li" name="citation_author" /><meta content="Key Laboratory of Green Printing, Institute of Chemistry, Chinese Academy of Sciences,Beijing 100190,P. R. China" name="citation_author_institution" />    <meta name="DC.Creator" content="Yanlin Song" />
+<meta content="Yanlin Song" name="citation_author" /><meta content="Key Laboratory of Green Printing, Institute of Chemistry, Chinese Academy of Sciences,Beijing 100190,P. R. China" name="citation_author_institution" /><meta name="DC.title" content="Inkjet printing wearable electronic devices" />
+<meta name="DC.publisher" content="The Royal Society of Chemistry" />
+
+<meta name="DC.issued" content="2017/03/06" />
+<meta name="DC.Identifier" scheme="doi" content="10.1039/C7TC00038C" />
+<meta name="DC.Language" content="en" />
+<meta name="PPL.DocType" content="journals" />
+<meta name="description" content="In recent years, wearable electronics have experienced tremendous development due to their promising applications in fields such as portable, flexible/stretchable human-interactive sensors, displays, and energy devices. To effectively fabricate wearable electronics, a high-efficient, cost-saving, and eco-fri
+                Recent Review Articles
+" />
+
+<meta content="2050-7534" name="citation_issn" />
+<meta content="Inkjet printing wearable electronic devices" name="citation_title" />
+<meta content="2017/03/06" name="citation_online_date" />
+<meta content="2017/03/23" name="citation_publication_date" />
+<meta content="Journal of Materials Chemistry C" name="citation_journal_title" />
+<meta content="5" name="citation_volume" />
+<meta content="12" name="citation_issue" />
+<meta content="2971" name="citation_firstpage" />
+<meta content="2993" name="citation_lastpage" />
+<meta content="10.1039/C7TC00038C" name="citation_doi" />
+<meta content="https://pubs.rsc.org/en/content/articlepdf/2017/tc/c7tc00038c" name="citation_pdf_url" />
+<meta content="https://pubs.rsc.org/en/content/articlelanding/2017/tc/c7tc00038c" name="citation_abstract_html_url" />
+<meta content="https://pubs.rsc.org/en/content/articlehtml/2017/tc/c7tc00038c" name="citation_fulltext_html_url" />
+<meta content="J. Mater. Chem. C" name="citation_journal_abbrev" />
+<meta name="keywords" content="" />
+            <meta name="citation_reference" content="citation_author=M. Ha;
+citation_author=J. Park;
+citation_author=Y. Lee;
+citation_author=H. Ko;
+citation_journal_title=ACS Nano;
+citation_volume=9;
+citation_pages=3421-3427;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=M. Amjadi;
+citation_author=K.-U. Kyung;
+citation_author=I. Park;
+citation_author=M. Sitti;
+citation_journal_title=Adv. Funct. Mater.;
+citation_volume=26;
+citation_pages=1678-1698;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=X. Wang;
+citation_author=L. Dong;
+citation_author=H. Zhang;
+citation_author=R. Yu;
+citation_author=C. Pan;
+citation_author=Z. L. Wang;
+citation_journal_title=Adv. Sci.;
+citation_volume=2;
+citation_pages=1500169;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=T. Q. Trung;
+citation_author=N.-E. Lee;
+citation_journal_title=Adv. Mater.;
+citation_volume=28;
+citation_pages=4338-4372;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=W. Zeng;
+citation_author=L. Shu;
+citation_author=Q. Li;
+citation_author=S. Chen;
+citation_author=F. Wang;
+citation_author=X.-M. Tao;
+citation_journal_title=Adv. Mater.;
+citation_volume=26;
+citation_pages=5310-5336;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=M. L. Hammock;
+citation_author=A. Chortos;
+citation_author=B. C. K. Tee;
+citation_author=J. B. H. Tok;
+citation_author=Z. Bao;
+citation_journal_title=Adv. Mater.;
+citation_volume=25;
+citation_pages=5997-6037;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=M. Stoppa;
+citation_author=A. Chiolerio;
+citation_journal_title=Sensors;
+citation_volume=14;
+citation_pages=11957;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=M. Singh;
+citation_author=H. M. Haverinen;
+citation_author=P. Dhagat;
+citation_author=G. E. Jabbour;
+citation_journal_title=Adv. Mater.;
+citation_volume=22;
+citation_pages=673-685;citation_publication_date=2010;
+" />
+            <meta name="citation_reference" content="citation_author=J. Wang;
+citation_author=L. Wang;
+citation_author=Y. Song;
+citation_author=L. Jiang;
+citation_journal_title=J. Mater. Chem. C;
+citation_volume=1;
+citation_pages=6048-6058;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=Y. Huang;
+citation_author=W. Li;
+citation_author=M. Qin;
+citation_author=H. Zhou;
+citation_author=X. Zhang;
+citation_author=F. Li;
+citation_author=Y. Song;
+citation_journal_title=Small;
+citation_volume=13;
+citation_pages=1503339;citation_publication_date=2017;
+" />
+            <meta name="citation_reference" content="citation_author=J. Sun;
+citation_author=B. Bao;
+citation_author=M. He;
+citation_author=H. Zhou;
+citation_author=Y. Song;
+citation_journal_title=ACS Appl. Mater. Interfaces;
+citation_volume=7;
+citation_pages=28086-28099;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=M. Kuang;
+citation_author=L. Wang;
+citation_author=Y. Song;
+citation_journal_title=Adv. Mater.;
+citation_volume=26;
+citation_pages=6950-6958;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=D. Tian;
+citation_author=Y. Song;
+citation_author=L. Jiang;
+citation_journal_title=Chem. Soc. Rev.;
+citation_volume=42;
+citation_pages=5184-5209;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=L. Wu;
+citation_author=Z. Dong;
+citation_author=F. Li;
+citation_author=H. Zhou;
+citation_author=Y. Song;
+citation_journal_title=Adv. Opt. Mater.;
+citation_volume=4;
+citation_pages=1915-1932;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=B. Kang;
+citation_author=W. H. Lee;
+citation_author=K. Cho;
+citation_journal_title=ACS Appl. Mater. Interfaces;
+citation_volume=5;
+citation_pages=2302-2315;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=P. F. Moonen;
+citation_author=I. Yakimets;
+citation_author=J. Huskens;
+citation_journal_title=Adv. Mater.;
+citation_volume=24;
+citation_pages=5526-5541;citation_publication_date=2012;
+" />
+            <meta name="citation_reference" content="citation_author=J. Song;
+citation_author=H. Zeng;
+citation_journal_title=Angew. Chem., Int. Ed.;
+citation_volume=54;
+citation_pages=9760-9774;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=Y. S. Rim;
+citation_author=S.-H. Bae;
+citation_author=H. Chen;
+citation_author=N. De Marco;
+citation_author=Y. Yang;
+citation_journal_title=Adv. Mater.;
+citation_volume=28;
+citation_pages=4415-4440;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=R. G. Scalisi;
+citation_author=M. Paleari;
+citation_author=A. Favetto;
+citation_author=M. Stoppa;
+citation_author=P. Ariano;
+citation_author=P. Pandolfi;
+citation_author=A. Chiolerio;
+citation_journal_title=Org. Electron.;
+citation_volume=18;
+citation_pages=89-94;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=D. St&#252;we;
+citation_author=D. Mager;
+citation_author=D. Biro;
+citation_author=J. G. Korvink;
+citation_journal_title=Adv. Mater.;
+citation_volume=27;
+citation_pages=599-626;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=Y. Sun;
+citation_author=Y. Zhang;
+citation_author=Q. Liang;
+citation_author=Y. Zhang;
+citation_author=H. Chi;
+citation_author=Y. Shi;
+citation_author=D. Fang;
+citation_journal_title=RSC Adv.;
+citation_volume=3;
+citation_pages=11925-11934;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=B. H. Kim;
+citation_author=M. S. Onses;
+citation_author=J. B. Lim;
+citation_author=S. Nam;
+citation_author=N. Oh;
+citation_author=H. Kim;
+citation_author=K. J. Yu;
+citation_author=J. W. Lee;
+citation_author=J.-H. Kim;
+citation_author=S.-K. Kang;
+citation_author=C. H. Lee;
+citation_author=J. Lee;
+citation_author=J. H. Shin;
+citation_author=N. H. Kim;
+citation_author=C. Leal;
+citation_author=M. Shim;
+citation_author=J. A. Rogers;
+citation_journal_title=Nano Lett.;
+citation_volume=15;
+citation_pages=969-973;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=B. Kim;
+citation_author=S. Jang;
+citation_author=M. L. Geier;
+citation_author=P. L. Prabhumirashi;
+citation_author=M. C. Hersam;
+citation_author=A. Dodabalapur;
+citation_journal_title=Nano Lett.;
+citation_volume=14;
+citation_pages=3683-3687;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=K. Jost;
+citation_author=D. Stenger;
+citation_author=C. R. Perez;
+citation_author=J. K. McDonough;
+citation_author=K. Lian;
+citation_author=Y. Gogotsi;
+citation_author=G. Dion;
+citation_journal_title=Energy Environ. Sci.;
+citation_volume=6;
+citation_pages=2698-2705;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=Z. Zhang;
+citation_author=X. Zhang;
+citation_author=Z. Xin;
+citation_author=M. Deng;
+citation_author=Y. Wen;
+citation_author=Y. Song;
+citation_journal_title=Adv. Mater.;
+citation_volume=25;
+citation_pages=6714-6718;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=M. Gao;
+citation_author=L. Li;
+citation_author=W. Li;
+citation_author=H. Zhou;
+citation_author=Y. Song;
+citation_journal_title=Adv. Sci.;
+citation_volume=3;
+citation_pages=1600120;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=E. M. Lindh;
+citation_author=A. Sandstroem;
+citation_author=L. Edman;
+citation_journal_title=Small;
+citation_volume=10;
+citation_pages=4148-4153;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=T. Sekitani;
+citation_author=H. Nakajima;
+citation_author=H. Maeda;
+citation_author=T. Fukushima;
+citation_author=T. Aida;
+citation_author=K. Hata;
+citation_author=T. Someya;
+citation_journal_title=Nat. Mater.;
+citation_volume=8;
+citation_pages=494-499;citation_publication_date=2009;
+" />
+            <meta name="citation_reference" content="citation_author=A. C. Siegel;
+citation_author=S. T. Phillips;
+citation_author=B. J. Wiley;
+citation_author=G. M. Whitesides;
+citation_journal_title=Lab Chip;
+citation_volume=9;
+citation_pages=2775-2781;citation_publication_date=2009;
+" />
+            <meta name="citation_reference" content="citation_author=E. Katzir;
+citation_author=S. Yochelis;
+citation_author=Y. Paltiel;
+citation_author=S. Azoubel;
+citation_author=A. Shimoni;
+citation_author=S. Magdassi;
+citation_journal_title=Sens. Actuators, B;
+citation_volume=196;
+citation_pages=112-116;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=M. Su;
+citation_author=F. Li;
+citation_author=S. Chen;
+citation_author=Z. Huang;
+citation_author=M. Qin;
+citation_author=W. Li;
+citation_author=X. Zhang;
+citation_author=Y. Song;
+citation_journal_title=Adv. Mater.;
+citation_volume=28;
+citation_pages=1369-1374;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=S. Ali;
+citation_author=A. Hassan;
+citation_author=G. Hassan;
+citation_author=J. Bae;
+citation_author=C. H. Lee;
+citation_journal_title=Carbon;
+citation_volume=105;
+citation_pages=23-32;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=B. Xie;
+citation_author=C. Yang;
+citation_author=Z. Zhang;
+citation_author=P. Zou;
+citation_author=Z. Lin;
+citation_author=G. Shi;
+citation_author=Q. Yang;
+citation_author=F. Kang;
+citation_author=C.-P. Wong;
+citation_journal_title=ACS Nano;
+citation_volume=9;
+citation_pages=5636-5645;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=S. Lee;
+citation_author=Y. Lee;
+citation_author=J. Park;
+citation_author=D. Choi;
+citation_journal_title=Nano Energy;
+citation_volume=9;
+citation_pages=88-93;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=F. Jiao;
+citation_author=C.-A. Di;
+citation_author=Y. Sun;
+citation_author=P. Sheng;
+citation_author=W. Xu;
+citation_author=D. Zhu;
+citation_journal_title=Philos. Trans. R. Soc., A;
+citation_volume=372;
+citation_pages=20130008;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=O. Reynolds;
+citation_journal_title=Philos. Trans. R. Soc. London;
+citation_volume=174;
+citation_pages=935-982;citation_publication_date=1883;
+" />
+            <meta name="citation_reference" content="citation_author=V. Bergeron;
+citation_author=D. Bonn;
+citation_author=J. Y. Martin;
+citation_author=L. Vovelle;
+citation_journal_title=Nature;
+citation_volume=405;
+citation_pages=772-775;citation_publication_date=2000;
+" />
+            <meta name="citation_reference" content="citation_author=G. H. McKinley;
+citation_author=M. Renardy;
+citation_journal_title=Phys. Fluids;
+citation_volume=23;
+citation_pages=127101;citation_publication_date=2011;
+" />
+            <meta name="citation_reference" content="citation_author=J. E. Fromm;
+citation_journal_title=IBM J. Res. Dev.;
+citation_volume=28;
+citation_pages=322-333;citation_publication_date=1984;
+" />
+            <meta name="citation_reference" content="citation_author=A. Kamyshny;
+citation_author=S. Magdassi;
+citation_journal_title=Small;
+citation_volume=10;
+citation_pages=3515-3535;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=J. Stegen;
+citation_journal_title=J. Chem. Phys.;
+citation_volume=140;
+citation_pages=244908;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=D. J. Finn;
+citation_author=M. Lotya;
+citation_author=J. N. Coleman;
+citation_journal_title=ACS Appl. Mater. Interfaces;
+citation_volume=7;
+citation_pages=9254-9261;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=K. Kord&#225;s;
+citation_author=T. Mustonen;
+citation_author=G. T&#243;th;
+citation_author=H. Jantunen;
+citation_author=M. Lajunen;
+citation_author=C. Soldano;
+citation_author=S. Talapatra;
+citation_author=S. Kar;
+citation_author=R. Vajtai;
+citation_author=P. M. Ajayan;
+citation_journal_title=Small;
+citation_volume=2;
+citation_pages=1021-1025;citation_publication_date=2006;
+" />
+            <meta name="citation_reference" content="citation_author=V. Georgakilas;
+citation_author=A. Demeslis;
+citation_author=E. Ntararas;
+citation_author=A. Kouloumpis;
+citation_author=K. Dimos;
+citation_author=D. Gournis;
+citation_author=M. Kocman;
+citation_author=M. Otyepka;
+citation_author=R. Zboril;
+citation_journal_title=Adv. Funct. Mater.;
+citation_volume=25;
+citation_pages=1481-1487;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=E. Gracia-Espino;
+citation_author=G. Sala;
+citation_author=F. Pino;
+citation_author=N. Halonen;
+citation_author=J. Luomahaara;
+citation_author=J. M&#228;klin;
+citation_author=G. T&#243;th;
+citation_author=K. Kord&#225;s;
+citation_author=H. Jantunen;
+citation_author=M. Terrones;
+citation_author=P. Helist&#246;;
+citation_author=H. Sepp&#228;;
+citation_author=P. M. Ajayan;
+citation_author=R. Vajtai;
+citation_journal_title=ACS Nano;
+citation_volume=4;
+citation_pages=3318-3324;citation_publication_date=2010;
+" />
+            <meta name="citation_reference" content="citation_author=Q. Yang;
+citation_author=M. Deng;
+citation_author=H. Li;
+citation_author=M. Li;
+citation_author=C. Zhang;
+citation_author=W. Shen;
+citation_author=Y. Li;
+citation_author=D. Guo;
+citation_author=Y. Song;
+citation_journal_title=Nanoscale;
+citation_volume=7;
+citation_pages=421-425;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=S. Chen;
+citation_author=M. Su;
+citation_author=C. Zhang;
+citation_author=M. Gao;
+citation_author=B. Bao;
+citation_author=Q. Yang;
+citation_author=B. Su;
+citation_author=Y. Song;
+citation_journal_title=Adv. Mater.;
+citation_volume=26;
+citation_pages=3928-3933;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=O.-S. Kwon;
+citation_author=H. Kim;
+citation_author=H. Ko;
+citation_author=J. Lee;
+citation_author=B. Lee;
+citation_author=C.-H. Jung;
+citation_author=J.-H. Choi;
+citation_author=K. Shin;
+citation_journal_title=Carbon;
+citation_volume=58;
+citation_pages=116-127;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=S. Azoubel;
+citation_author=S. Shemesh;
+citation_author=S. Magdassi;
+citation_journal_title=Nanotechnology;
+citation_volume=23;
+citation_pages=344003;citation_publication_date=2012;
+" />
+            <meta name="citation_reference" content="citation_author=J. Li;
+citation_author=M. M. Naiini;
+citation_author=S. Vaziri;
+citation_author=M. C. Lemme;
+citation_author=M. &#214;stling;
+citation_journal_title=Adv. Funct. Mater.;
+citation_volume=24;
+citation_pages=6524-6531;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=H. Okimoto;
+citation_author=T. Takenobu;
+citation_author=K. Yanagi;
+citation_author=Y. Miyata;
+citation_author=H. Shimotani;
+citation_author=H. Kataura;
+citation_author=Y. Iwasa;
+citation_journal_title=Adv. Mater.;
+citation_volume=22;
+citation_pages=3981-3986;citation_publication_date=2010;
+" />
+            <meta name="citation_reference" content="citation_author=Y. Khan;
+citation_author=F. J. Pavinatto;
+citation_author=M. C. Lin;
+citation_author=A. Liao;
+citation_author=S. L. Swisher;
+citation_author=K. Mann;
+citation_author=V. Subramanian;
+citation_author=M. M. Maharbiz;
+citation_author=A. C. Arias;
+citation_journal_title=Adv. Funct. Mater.;
+citation_volume=26;
+citation_pages=1004-1013;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=K. Rajan;
+citation_author=I. Roppolo;
+citation_author=A. Chiappone;
+citation_author=S. Bocchini;
+citation_author=D. Perrone;
+citation_author=A. Chiolerio;
+citation_journal_title=Nanotechnol., Sci. Appl.;
+citation_volume=9;
+citation_pages=1;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=S. Jeong;
+citation_author=K. Woo;
+citation_author=D. Kim;
+citation_author=S. Lim;
+citation_author=J. S. Kim;
+citation_author=H. Shin;
+citation_author=Y. Xia;
+citation_author=J. Moon;
+citation_journal_title=Adv. Funct. Mater.;
+citation_volume=18;
+citation_pages=679-686;citation_publication_date=2008;
+" />
+            <meta name="citation_reference" content="citation_author=E. Butovsky;
+citation_author=I. Perelshtein;
+citation_author=I. Nissan;
+citation_author=A. Gedanken;
+citation_journal_title=Adv. Funct. Mater.;
+citation_volume=23;
+citation_pages=5794-5799;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=C. Kim;
+citation_author=G. Lee;
+citation_author=C. Rhee;
+citation_author=M. Lee;
+citation_journal_title=Nanoscale;
+citation_volume=7;
+citation_pages=6627-6635;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=S. Ma;
+citation_author=L. Liu;
+citation_author=V. Bromberg;
+citation_author=T. J. Singler;
+citation_journal_title=ACS Appl. Mater. Interfaces;
+citation_volume=6;
+citation_pages=19494-19498;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=B. Kang;
+citation_author=S. Han;
+citation_author=J. Kim;
+citation_author=S. Ko;
+citation_author=M. Yang;
+citation_journal_title=J. Phys. Chem. C;
+citation_volume=115;
+citation_pages=23664-23670;citation_publication_date=2011;
+" />
+            <meta name="citation_reference" content="citation_author=J. Ryu;
+citation_author=H.-S. Kim;
+citation_author=H. T. Hahn;
+citation_journal_title=J. Electron. Mater.;
+citation_volume=40;
+citation_pages=42-50;citation_publication_date=2011;
+" />
+            <meta name="citation_reference" content="citation_author=D. Lee;
+citation_author=D. Paeng;
+citation_author=H. K. Park;
+citation_author=C. P. Grigoropoulos;
+citation_journal_title=ACS Nano;
+citation_volume=8;
+citation_pages=9807-9814;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=M. Grouchko;
+citation_author=A. Kamyshny;
+citation_author=C. F. Mihailescu;
+citation_author=D. F. Anghel;
+citation_author=S. Magdassi;
+citation_journal_title=ACS Nano;
+citation_volume=5;
+citation_pages=3354-3359;citation_publication_date=2011;
+" />
+            <meta name="citation_reference" content="citation_author=D.-Y. Shin;
+citation_author=M. Jung;
+citation_author=S. Chun;
+citation_journal_title=J. Mater. Chem.;
+citation_volume=22;
+citation_pages=11755-11764;citation_publication_date=2012;
+" />
+            <meta name="citation_reference" content="citation_author=M. Abulikemu;
+citation_author=E. H. Da&#39;as;
+citation_author=H. Haverinen;
+citation_author=D. Cha;
+citation_author=M. A. Malik;
+citation_author=G. E. Jabbour;
+citation_journal_title=Angew. Chem., Int. Ed.;
+citation_volume=53;
+citation_pages=420-423;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=S. B. Walker;
+citation_author=J. A. Lewis;
+citation_journal_title=J. Am. Chem. Soc.;
+citation_volume=134;
+citation_pages=1419-1421;citation_publication_date=2012;
+" />
+            <meta name="citation_reference" content="citation_author=C. Alessandro;
+citation_author=B. Sergio;
+citation_author=S. Francesco;
+citation_author=P. Samuele;
+citation_author=P. Denis;
+citation_author=B. Davide;
+citation_author=C. Mario;
+citation_author=P. Candido Fabrizio;
+citation_journal_title=Semicond. Sci. Technol.;
+citation_volume=30;
+citation_pages=104001;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=A. Keawprajak;
+citation_author=W. Koetniyom;
+citation_author=P. Piyakulawat;
+citation_author=K. Jiramitmongkon;
+citation_author=S. Pratontep;
+citation_author=U. Asawapirom;
+citation_journal_title=Org. Electron.;
+citation_volume=14;
+citation_pages=402-410;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=M. Vosgueritchian;
+citation_author=D. J. Lipomi;
+citation_author=Z. Bao;
+citation_journal_title=Adv. Funct. Mater.;
+citation_volume=22;
+citation_pages=421-428;citation_publication_date=2012;
+" />
+            <meta name="citation_reference" content="citation_author=F. Torrisi;
+citation_author=T. Hasan;
+citation_author=W. Wu;
+citation_author=Z. Sun;
+citation_author=A. Lombardo;
+citation_author=T. S. Kulmala;
+citation_author=G.-W. Hsieh;
+citation_author=S. Jung;
+citation_author=F. Bonaccorso;
+citation_author=P. J. Paul;
+citation_author=D. Chu;
+citation_author=A. C. Ferrari;
+citation_journal_title=ACS Nano;
+citation_volume=6;
+citation_pages=2992-3006;citation_publication_date=2012;
+" />
+            <meta name="citation_reference" content="citation_author=R. P. Tortorich;
+citation_author=J.-W. Choi;
+citation_journal_title=Nanomaterials;
+citation_volume=3;
+citation_pages=453-468;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=A. Ciesielski;
+citation_author=P. Samori;
+citation_journal_title=Chem. Soc. Rev.;
+citation_volume=43;
+citation_pages=381-398;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=E. B. Secor;
+citation_author=P. L. Prabhumirashi;
+citation_author=K. Puntambekar;
+citation_author=M. L. Geier;
+citation_author=M. C. Hersam;
+citation_journal_title=J. Phys. Chem. Lett.;
+citation_volume=4;
+citation_pages=1347-1351;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=T. Kim;
+citation_author=H. Lee;
+citation_author=J. Kim;
+citation_author=K. S. Suh;
+citation_journal_title=ACS Nano;
+citation_volume=4;
+citation_pages=1612-1618;citation_publication_date=2010;
+" />
+            <meta name="citation_reference" content="citation_author=M. Lotya;
+citation_author=P. J. King;
+citation_author=U. Khan;
+citation_author=S. De;
+citation_author=J. N. Coleman;
+citation_journal_title=ACS Nano;
+citation_volume=4;
+citation_pages=3155-3162;citation_publication_date=2010;
+" />
+            <meta name="citation_reference" content="citation_author=E. B. Secor;
+citation_author=B. Y. Ahn;
+citation_author=T. Z. Gao;
+citation_author=J. A. Lewis;
+citation_author=M. C. Hersam;
+citation_journal_title=Adv. Mater.;
+citation_volume=27;
+citation_pages=6683-6688;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=J. Li;
+citation_author=F. Ye;
+citation_author=S. Vaziri;
+citation_author=M. Muhammed;
+citation_author=M. C. Lemme;
+citation_author=M. Ostling;
+citation_journal_title=Adv. Mater.;
+citation_volume=25;
+citation_pages=3985-3992;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=J. Li;
+citation_author=F. Ye;
+citation_author=S. Vaziri;
+citation_author=M. Muhammed;
+citation_author=M. C. Lemme;
+citation_author=M. &#214;stling;
+citation_journal_title=Carbon;
+citation_volume=50;
+citation_pages=3113-3116;citation_publication_date=2012;
+" />
+            <meta name="citation_reference" content="citation_author=W. Li;
+citation_author=F. Li;
+citation_author=H. Li;
+citation_author=M. Su;
+citation_author=M. Gao;
+citation_author=Y. Li;
+citation_author=D. Su;
+citation_author=X. Zhang;
+citation_author=Y. Song;
+citation_journal_title=ACS Appl. Mater. Interfaces;
+citation_volume=8;
+citation_pages=12369-12376;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=D. R. Dreyer;
+citation_author=S. Park;
+citation_author=C. W. Bielawski;
+citation_author=R. S. Ruoff;
+citation_journal_title=Chem. Soc. Rev.;
+citation_volume=39;
+citation_pages=228-240;citation_publication_date=2010;
+" />
+            <meta name="citation_reference" content="citation_author=L. Li;
+citation_author=M. Gao;
+citation_author=Y. Guo;
+citation_author=J. Sun;
+citation_author=Y. Li;
+citation_author=F. Li;
+citation_author=Y. Song;
+citation_author=Y. Li;
+citation_journal_title=J. Mater. Chem. C;
+" />
+            <meta name="citation_reference" content="citation_author=M. Neophytou;
+citation_author=F. Hermerschmidt;
+citation_author=A. Savva;
+citation_author=E. Georgiou;
+citation_author=S. A. Choulis;
+citation_journal_title=Appl. Phys. Lett.;
+citation_volume=101;
+citation_pages=193302;citation_publication_date=2012;
+" />
+            <meta name="citation_reference" content="citation_author=Y. Galagan;
+citation_author=B. Zimmermann;
+citation_author=E. W. C. Coenen;
+citation_author=M. J&#248;rgensen;
+citation_author=D. M. Tanenbaum;
+citation_author=F. C. Krebs;
+citation_author=H. Gorter;
+citation_author=S. Sabik;
+citation_author=L. H. Slooff;
+citation_author=S. C. Veenstra;
+citation_author=J. M. Kroon;
+citation_author=R. Andriessen;
+citation_journal_title=Adv. Energy Mater.;
+citation_volume=2;
+citation_pages=103-110;citation_publication_date=2012;
+" />
+            <meta name="citation_reference" content="citation_author=S. L. Wang;
+citation_author=N. S. Liu;
+citation_author=J. Y. Tao;
+citation_author=C. X. Yang;
+citation_author=W. J. Liu;
+citation_author=Y. L. Shi;
+citation_author=Y. M. Wang;
+citation_author=J. Su;
+citation_author=L. Y. Li;
+citation_author=Y. H. Gao;
+citation_journal_title=J. Mater. Chem. A;
+citation_volume=3;
+citation_pages=2407-2413;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=W. Zhang;
+citation_author=E. Bi;
+citation_author=M. Li;
+citation_author=L. Gao;
+citation_journal_title=Colloids Surf., A;
+citation_volume=490;
+citation_pages=232-240;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=A. S. Alshammari;
+citation_author=M. Shkunov;
+citation_author=S. R. P. Silva;
+citation_journal_title=Colloid Polym. Sci.;
+citation_volume=292;
+citation_pages=661-668;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=A. Denneulin;
+citation_author=J. Bras;
+citation_author=F. Carcone;
+citation_author=C. Neuman;
+citation_author=A. Blayo;
+citation_journal_title=Carbon;
+citation_volume=49;
+citation_pages=2603-2614;citation_publication_date=2011;
+" />
+            <meta name="citation_reference" content="citation_author=K. Chi;
+citation_author=Z. Zhang;
+citation_author=J. Xi;
+citation_author=Y. Huang;
+citation_author=F. Xiao;
+citation_author=S. Wang;
+citation_author=Y. Liu;
+citation_journal_title=ACS Appl. Mater. Interfaces;
+citation_volume=6;
+citation_pages=16312-16319;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=L. Li;
+citation_author=Y. Guo;
+citation_author=X. Zhang;
+citation_author=Y. Song;
+citation_journal_title=J. Mater. Chem. A;
+citation_volume=2;
+citation_pages=19095-19101;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=A. Denneulin;
+citation_author=J. Bras;
+citation_author=A. Blayo;
+citation_author=B. Khelifi;
+citation_author=F. Roussel-Dherbey;
+citation_author=C. Neuman;
+citation_journal_title=Nanotechnology;
+citation_volume=20;
+citation_pages=385701;citation_publication_date=2009;
+" />
+            <meta name="citation_reference" content="citation_author=Y. Sun;
+citation_author=J. A. Rogers;
+citation_journal_title=Adv. Mater.;
+citation_volume=19;
+citation_pages=1897-1916;citation_publication_date=2007;
+" />
+            <meta name="citation_reference" content="citation_author=T. T. Baby;
+citation_author=S. K. Garlapati;
+citation_author=S. Dehm;
+citation_author=M. Haeming;
+citation_author=R. Kruk;
+citation_author=H. Hahn;
+citation_author=S. Dasgupta;
+citation_journal_title=ACS Nano;
+citation_volume=9;
+citation_pages=3075-3083;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=S. Allard;
+citation_author=M. Forster;
+citation_author=B. Souharce;
+citation_author=H. Thiem;
+citation_author=U. Scherf;
+citation_journal_title=Angew. Chem., Int. Ed.;
+citation_volume=47;
+citation_pages=4070-4098;citation_publication_date=2008;
+" />
+            <meta name="citation_reference" content="citation_author=J. E. Anthony;
+citation_author=A. Facchetti;
+citation_author=M. Heeney;
+citation_author=S. R. Marder;
+citation_author=X. Zhan;
+citation_journal_title=Adv. Mater.;
+citation_volume=22;
+citation_pages=3876-3892;citation_publication_date=2010;
+" />
+            <meta name="citation_reference" content="citation_author=Y. Wen;
+citation_author=Y. Liu;
+citation_journal_title=Adv. Mater.;
+citation_volume=22;
+citation_pages=1331-1345;citation_publication_date=2010;
+" />
+            <meta name="citation_reference" content="citation_author=J. Doggart;
+citation_author=Y. Wu;
+citation_author=S. Zhu;
+citation_journal_title=Appl. Phys. Lett.;
+citation_volume=94;
+citation_pages=163503;citation_publication_date=2009;
+" />
+            <meta name="citation_reference" content="citation_author=T. M. Schmidt;
+citation_author=T. T. Larsen-Olsen;
+citation_author=J. E. Carle;
+citation_author=D. Angmo;
+citation_author=F. C. Krebs;
+citation_journal_title=Adv. Energy Mater.;
+citation_volume=5;
+citation_pages=1500569;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=H. Lu;
+citation_author=J. Lin;
+citation_author=N. Wu;
+citation_author=S. Nie;
+citation_author=Q. Luo;
+citation_author=C.-Q. Ma;
+citation_author=Z. Cui;
+citation_journal_title=Appl. Phys. Lett.;
+citation_volume=106;
+citation_pages=093302;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=N. D. Treat;
+citation_author=J. A. N. Malik;
+citation_author=O. Reid;
+citation_author=L. Yu;
+citation_author=C. G. Shuttle;
+citation_author=G. Rumbles;
+citation_author=C. J. Hawker;
+citation_author=M. L. Chabinyc;
+citation_author=P. Smith;
+citation_author=N. Stingelin;
+citation_journal_title=Nat. Mater.;
+citation_volume=12;
+citation_pages=628-633;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=J. Kwon;
+citation_author=S. Kyung;
+citation_author=S. Yoon;
+citation_author=J.-J. Kim;
+citation_author=S. Jung;
+citation_journal_title=Adv. Sci.;
+citation_volume=3;
+citation_pages=1500439;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=J. Lee;
+citation_author=D. H. Kim;
+citation_author=J.-Y. Kim;
+citation_author=B. Yoo;
+citation_author=J. W. Chung;
+citation_author=J.-I. Park;
+citation_author=B.-L. Lee;
+citation_author=J. Y. Jung;
+citation_author=J. S. Park;
+citation_author=B. Koo;
+citation_author=S. Im;
+citation_author=J. W. Kim;
+citation_author=B. Song;
+citation_author=M.-H. Jung;
+citation_author=J. E. Jang;
+citation_author=Y. W. Jin;
+citation_author=S.-Y. Lee;
+citation_journal_title=Adv. Mater.;
+citation_volume=25;
+citation_pages=5886-5892;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=A. N. Sokolov;
+citation_author=M. E. Roberts;
+citation_author=Z. Bao;
+citation_journal_title=Mater. Today;
+citation_volume=12;
+citation_pages=12-20;citation_publication_date=2009;
+" />
+            <meta name="citation_reference" content="citation_author=S. K. Park;
+citation_author=T. N. Jackson;
+citation_author=J. E. Anthony;
+citation_author=D. A. Mourey;
+citation_journal_title=Appl. Phys. Lett.;
+citation_volume=91;
+citation_pages=063514;citation_publication_date=2007;
+" />
+            <meta name="citation_reference" content="citation_author=R. Saito;
+citation_author=M. Fujita;
+citation_author=G. Dresselhaus;
+citation_author=M. S. Dresselhaus;
+citation_journal_title=Appl. Phys. Lett.;
+citation_volume=60;
+citation_pages=2204-2206;citation_publication_date=1992;
+" />
+            <meta name="citation_reference" content="citation_author=M. S. Tang;
+citation_author=E.-P. Ng;
+citation_author=J. C. Juan;
+citation_author=C. W. Ooi;
+citation_author=T. C. Ling;
+citation_author=K. L. Woon;
+citation_author=P. L. Show;
+citation_journal_title=Nanotechnology;
+citation_volume=27;
+citation_pages=332002;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=M. S. Arnold;
+citation_author=A. A. Green;
+citation_author=J. F. Hulvat;
+citation_author=S. I. Stupp;
+citation_author=M. C. Hersam;
+citation_journal_title=Nat. Nanotechnol.;
+citation_volume=1;
+citation_pages=60-65;citation_publication_date=2006;
+" />
+            <meta name="citation_reference" content="citation_author=H. Liu;
+citation_author=D. Nishide;
+citation_author=T. Tanaka;
+citation_author=H. Kataura;
+citation_journal_title=Nat. Commun.;
+citation_volume=2;
+citation_pages=309;citation_publication_date=2011;
+" />
+            <meta name="citation_reference" content="citation_author=C. Y. Khripin;
+citation_author=J. A. Fagan;
+citation_author=M. Zheng;
+citation_journal_title=J. Am. Chem. Soc.;
+citation_volume=135;
+citation_pages=6822-6825;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=Y. Hu;
+citation_author=Y. Chen;
+citation_author=P. Li;
+citation_author=J. Zhang;
+citation_journal_title=Small;
+citation_volume=9;
+citation_pages=1306-1311;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=H. W. Lee;
+citation_author=Y. Yoon;
+citation_author=S. Park;
+citation_author=J. H. Oh;
+citation_author=S. Hong;
+citation_author=L. S. Liyanage;
+citation_author=H. Wang;
+citation_author=S. Morishita;
+citation_author=N. Patil;
+citation_author=Y. J. Park;
+citation_author=J. J. Park;
+citation_author=A. Spakowitz;
+citation_author=G. Galli;
+citation_author=F. Gygi;
+citation_author=P. H. S. Wong;
+citation_author=J. B. H. Tok;
+citation_author=J. M. Kim;
+citation_author=Z. Bao;
+citation_journal_title=Nat. Commun.;
+citation_volume=2;
+citation_pages=541;citation_publication_date=2011;
+" />
+            <meta name="citation_reference" content="citation_author=H. Wang;
+citation_author=B. Hsieh;
+citation_author=G. Jimenez-Oses;
+citation_author=P. Liu;
+citation_author=C. J. Tassone;
+citation_author=Y. Diao;
+citation_author=T. Lei;
+citation_author=K. N. Houk;
+citation_author=Z. Bao;
+citation_journal_title=Small;
+citation_volume=11;
+citation_pages=126-133;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=A. Liscio;
+citation_author=G. P. Veronese;
+citation_author=E. Treossi;
+citation_author=F. Suriano;
+citation_author=F. Rossella;
+citation_author=V. Bellani;
+citation_author=R. Rizzoli;
+citation_author=P. Samori;
+citation_author=V. Palermo;
+citation_journal_title=J. Mater. Chem.;
+citation_volume=21;
+citation_pages=2924-2931;citation_publication_date=2011;
+" />
+            <meta name="citation_reference" content="citation_author=S. P. Singh;
+citation_author=Z.-E. Ooi;
+citation_author=S. N. L. Geok;
+citation_author=G. K. L. Goh;
+citation_author=A. Dodabalapur;
+citation_journal_title=Appl. Phys. Lett.;
+citation_volume=98;
+citation_pages=073302;citation_publication_date=2011;
+" />
+            <meta name="citation_reference" content="citation_author=S. Blumstengel;
+citation_author=H. Glowatzki;
+citation_author=S. Sadofev;
+citation_author=N. Koch;
+citation_author=S. Kowarik;
+citation_author=J. P. Rabe;
+citation_author=F. Henneberger;
+citation_journal_title=Phys. Chem. Chem. Phys.;
+citation_volume=12;
+citation_pages=11642-11646;citation_publication_date=2010;
+" />
+            <meta name="citation_reference" content="citation_author=D. H. Kim;
+citation_author=H.-J. Shin;
+citation_author=H. S. Lee;
+citation_author=J. Lee;
+citation_author=B.-L. Lee;
+citation_author=W. H. Lee;
+citation_author=J.-H. Lee;
+citation_author=K. Cho;
+citation_author=W.-J. Kim;
+citation_author=S. Y. Lee;
+citation_author=J.-Y. Choi;
+citation_author=J. M. Kim;
+citation_journal_title=ACS Nano;
+citation_volume=6;
+citation_pages=662-670;citation_publication_date=2012;
+" />
+            <meta name="citation_reference" content="citation_author=R. P. Ortiz;
+citation_author=A. Facchetti;
+citation_author=T. J. Marks;
+citation_journal_title=Chem. Rev.;
+citation_volume=110;
+citation_pages=205-239;citation_publication_date=2010;
+" />
+            <meta name="citation_reference" content="citation_author=G. Vescio;
+citation_author=J. Lopez-Vidrier;
+citation_author=R. Leghrib;
+citation_author=A. Cornet;
+citation_author=A. Cirera;
+citation_journal_title=J. Mater. Chem. C;
+citation_volume=4;
+citation_pages=1804-1812;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=W. D. Ristenpart;
+citation_author=P. M. McCalla;
+citation_author=R. V. Roy;
+citation_author=H. A. Stone;
+citation_journal_title=Phys. Rev. Lett.;
+citation_volume=97;
+citation_pages=064501;citation_publication_date=2006;
+" />
+            <meta name="citation_reference" content="citation_author=N. Kapur;
+citation_author=P. H. Gaskell;
+citation_journal_title=Phys. Rev. E: Stat., Nonlinear, Soft Matter Phys.;
+citation_volume=75;
+citation_pages=056315;citation_publication_date=2007;
+" />
+            <meta name="citation_reference" content="citation_author=M. A. Nilsson;
+citation_author=J. P. Rothstein;
+citation_journal_title=J. Colloid Interface Sci.;
+citation_volume=363;
+citation_pages=646-654;citation_publication_date=2011;
+" />
+            <meta name="citation_reference" content="citation_author=X. Yang;
+citation_author=V. H. Chhasatia;
+citation_author=J. Shah;
+citation_author=Y. Sun;
+citation_journal_title=Soft Matter;
+citation_volume=8;
+citation_pages=9205-9213;citation_publication_date=2012;
+" />
+            <meta name="citation_reference" content="citation_author=D. Soltman;
+citation_author=V. Subramanian;
+citation_journal_title=Langmuir;
+citation_volume=24;
+citation_pages=2224-2231;citation_publication_date=2008;
+" />
+            <meta name="citation_reference" content="citation_author=M. Liu;
+citation_author=J. Wang;
+citation_author=M. He;
+citation_author=L. Wang;
+citation_author=F. Li;
+citation_author=L. Jiang;
+citation_author=Y. Song;
+citation_journal_title=ACS Appl. Mater. Interfaces;
+citation_volume=6;
+citation_pages=13344-13348;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=M. W. Lee;
+citation_author=N. Y. Kim;
+citation_author=S. Chandra;
+citation_author=S. S. Yoon;
+citation_journal_title=Int. J. Multiphase Flow;
+citation_volume=56;
+citation_pages=138-148;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=Y. Zhang;
+citation_author=S. D. Oberdick;
+citation_author=E. R. Swanson;
+citation_author=S. L. Anna;
+citation_author=S. Garoff;
+citation_journal_title=Phys. Fluids;
+citation_volume=27;
+citation_pages=022101;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=M. H. A. van Dongen;
+citation_author=A. van Loon;
+citation_author=R. J. Vrancken;
+citation_author=J. P. C. Bernards;
+citation_author=J. F. Dijksman;
+citation_journal_title=Exp. Fluids;
+citation_volume=55;
+citation_pages=1744;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=J. Lessing;
+citation_author=A. C. Glavan;
+citation_author=S. B. Walker;
+citation_author=C. Keplinger;
+citation_author=J. A. Lewis;
+citation_author=G. M. Whitesides;
+citation_journal_title=Adv. Mater.;
+citation_volume=26;
+citation_pages=4677-4682;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=C. Kim;
+citation_author=M. Nogi;
+citation_author=K. Suganuma;
+citation_author=Y. Yamato;
+citation_journal_title=ACS Appl. Mater. Interfaces;
+citation_volume=4;
+citation_pages=2168-2173;citation_publication_date=2012;
+" />
+            <meta name="citation_reference" content="citation_author=L. Wu;
+citation_author=Z. Dong;
+citation_author=M. Kuang;
+citation_author=Y. Li;
+citation_author=F. Li;
+citation_author=L. Jiang;
+citation_author=Y. Song;
+citation_journal_title=Adv. Funct. Mater.;
+citation_volume=25;
+citation_pages=2237-2242;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=S. K. Park;
+citation_author=D. A. Mourey;
+citation_author=S. Subramanian;
+citation_author=J. E. Anthony;
+citation_author=T. N. Jackson;
+citation_journal_title=Adv. Mater.;
+citation_volume=20;
+citation_pages=4145-4147;citation_publication_date=2008;
+" />
+            <meta name="citation_reference" content="citation_author=E. Menard;
+citation_author=M. A. Meitl;
+citation_author=Y. Sun;
+citation_author=J.-U. Park;
+citation_author=D. J.-L. Shir;
+citation_author=Y.-S. Nam;
+citation_author=S. Jeon;
+citation_author=J. A. Rogers;
+citation_journal_title=Chem. Rev.;
+citation_volume=107;
+citation_pages=1117-1160;citation_publication_date=2007;
+" />
+            <meta name="citation_reference" content="citation_author=K. S. Park;
+citation_author=J. Baek;
+citation_author=Y. Park;
+citation_author=L. Lee;
+citation_author=Y.-E. K. Lee;
+citation_author=Y. Kang;
+citation_author=M. M. Sung;
+citation_journal_title=Adv. Mater.;
+citation_volume=28;
+citation_pages=2874-2880;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=A. Mahajan;
+citation_author=W. J. Hyun;
+citation_author=S. B. Walker;
+citation_author=J. A. Lewis;
+citation_author=L. F. Francis;
+citation_author=C. D. Frisbie;
+citation_journal_title=ACS Appl. Mater. Interfaces;
+citation_volume=7;
+citation_pages=1841-1847;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=C. E. Hendriks;
+citation_author=P. J. Smith;
+citation_author=J. Perelaer;
+citation_author=A. M. J. Van den Berg;
+citation_author=U. S. Schubert;
+citation_journal_title=Adv. Funct. Mater.;
+citation_volume=18;
+citation_pages=1031-1038;citation_publication_date=2008;
+" />
+            <meta name="citation_reference" content="citation_author=J. Z. Wang;
+citation_author=Z. H. Zheng;
+citation_author=H. W. Li;
+citation_author=W. T. S. Huck;
+citation_author=H. Sirringhaus;
+citation_journal_title=Nat. Mater.;
+citation_volume=3;
+citation_pages=171-176;citation_publication_date=2004;
+" />
+            <meta name="citation_reference" content="citation_author=P. Q. M. Nguyen;
+citation_author=L.-P. Yeo;
+citation_author=B.-K. Lok;
+citation_author=Y.-C. Lam;
+citation_journal_title=ACS Appl. Mater. Interfaces;
+citation_volume=6;
+citation_pages=4011-4016;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=Y. Guo;
+citation_author=L. Li;
+citation_author=F. Li;
+citation_author=H. Zhou;
+citation_author=Y. Song;
+citation_journal_title=Lab Chip;
+citation_volume=15;
+citation_pages=1759-1764;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=S. J. Park;
+citation_author=B. M. Weon;
+citation_author=J. S. Lee;
+citation_author=J. Lee;
+citation_author=J. Kim;
+citation_author=J. H. Je;
+citation_journal_title=Nat. Commun.;
+citation_volume=5;
+citation_pages=4369;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=A. Alizadeh;
+citation_author=V. Bahadur;
+citation_author=W. Shang;
+citation_author=Y. Zhu;
+citation_author=D. Buckley;
+citation_author=A. Dhinojwala;
+citation_author=M. Sohal;
+citation_journal_title=Langmuir;
+citation_volume=29;
+citation_pages=4520-4524;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=B. Bao;
+citation_author=J. Jiang;
+citation_author=F. Li;
+citation_author=P. Zhang;
+citation_author=S. Chen;
+citation_author=Q. Yang;
+citation_author=S. Wang;
+citation_author=B. Su;
+citation_author=L. Jiang;
+citation_author=Y. Song;
+citation_journal_title=Adv. Funct. Mater.;
+citation_volume=25;
+citation_pages=3286-3294;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=J. Stringer;
+citation_author=B. Derby;
+citation_journal_title=J. Eur. Ceram. Soc.;
+citation_volume=29;
+citation_pages=913-918;citation_publication_date=2009;
+" />
+            <meta name="citation_reference" content="citation_author=J. Stringer;
+citation_author=B. Derby;
+citation_journal_title=Langmuir;
+citation_volume=26;
+citation_pages=10365-10372;citation_publication_date=2010;
+" />
+            <meta name="citation_reference" content="citation_author=T. H. J. van Osch;
+citation_author=J. Perelaer;
+citation_author=A. W. M. de Laat;
+citation_author=U. S. Schubert;
+citation_journal_title=Adv. Mater.;
+citation_volume=20;
+citation_pages=343-345;citation_publication_date=2008;
+" />
+            <meta name="citation_reference" content="citation_author=B. W. An;
+citation_author=K. Kim;
+citation_author=M. Kim;
+citation_author=S.-Y. Kim;
+citation_author=S.-H. Hur;
+citation_author=J.-U. Park;
+citation_journal_title=Small;
+citation_volume=11;
+citation_pages=2263-2268;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=T. Sekitani;
+citation_author=Y. Noguchi;
+citation_author=U. Zschieschang;
+citation_author=H. Klauk;
+citation_author=T. Someya;
+citation_journal_title=Proc. Natl. Acad. Sci. U. S. A.;
+citation_volume=105;
+citation_pages=4976-4980;citation_publication_date=2008;
+" />
+            <meta name="citation_reference" content="citation_author=J.-U. Park;
+citation_author=M. Hardy;
+citation_author=S. J. Kang;
+citation_author=K. Barton;
+citation_author=K. Adair;
+citation_author=D. K. Mukhopadhyay;
+citation_author=C. Y. Lee;
+citation_author=M. S. Strano;
+citation_author=A. G. Alleyne;
+citation_author=J. G. Georgiadis;
+citation_author=P. M. Ferreira;
+citation_author=J. A. Rogers;
+citation_journal_title=Nat. Mater.;
+citation_volume=6;
+citation_pages=782-789;citation_publication_date=2007;
+" />
+            <meta name="citation_reference" content="citation_author=Z. Dong;
+citation_author=J. Ma;
+citation_author=L. Jiang;
+citation_journal_title=ACS Nano;
+citation_volume=7;
+citation_pages=10371-10379;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=L. Wu;
+citation_author=Z. Dong;
+citation_author=N. Li;
+citation_author=F. Li;
+citation_author=L. Jiang;
+citation_author=Y. Song;
+citation_journal_title=Small;
+citation_volume=11;
+citation_pages=4837-4843;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=P. J. Yunker;
+citation_author=T. Still;
+citation_author=M. A. Lohr;
+citation_author=A. G. Yodh;
+citation_journal_title=Nature;
+citation_volume=476;
+citation_pages=308-311;citation_publication_date=2011;
+" />
+            <meta name="citation_reference" content="citation_author=L. Wang;
+citation_author=J. Wang;
+citation_author=Y. Huang;
+citation_author=M. Liu;
+citation_author=M. Kuang;
+citation_author=Y. Li;
+citation_author=L. Jiang;
+citation_author=Y. Song;
+citation_journal_title=J. Mater. Chem.;
+citation_volume=22;
+citation_pages=21405;citation_publication_date=2012;
+" />
+            <meta name="citation_reference" content="citation_author=W. Sempels;
+citation_author=R. De Dier;
+citation_author=H. Mizuno;
+citation_author=J. Hofkens;
+citation_author=J. Vermant;
+citation_journal_title=Nat. Commun.;
+citation_volume=4;
+citation_pages=1757;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=D. Kim;
+citation_author=S. Jeong;
+citation_author=B. K. Park;
+citation_author=J. Moon;
+citation_journal_title=Appl. Phys. Lett.;
+citation_volume=89;
+citation_pages=264101;citation_publication_date=2006;
+" />
+            <meta name="citation_reference" content="citation_author=R. Bhardwaj;
+citation_author=X. Fang;
+citation_author=P. Somasundaran;
+citation_author=D. Attinger;
+citation_journal_title=Langmuir;
+citation_volume=26;
+citation_pages=7833-7842;citation_publication_date=2010;
+" />
+            <meta name="citation_reference" content="citation_author=Z. Zhang;
+citation_author=X. Zhang;
+citation_author=Z. Xin;
+citation_author=M. Deng;
+citation_author=Y. Wen;
+citation_author=Y. Song;
+citation_journal_title=Adv. Mater.;
+citation_volume=25;
+citation_pages=6714-6718;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=M. Kuang;
+citation_author=J. Wang;
+citation_author=B. Bao;
+citation_author=F. Li;
+citation_author=L. Wang;
+citation_author=L. Jiang;
+citation_author=Y. Song;
+citation_journal_title=Adv. Opt. Mater.;
+citation_volume=2;
+citation_pages=34-38;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=Y. Li;
+citation_author=Q. Yang;
+citation_author=M. Li;
+citation_author=Y. Song;
+citation_journal_title=Sci. Rep.;
+citation_volume=6;
+citation_pages=24628;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=K. Fukuda;
+citation_author=T. Sekine;
+citation_author=D. Kumaki;
+citation_author=S. Tokito;
+citation_journal_title=ACS Appl. Mater. Interfaces;
+citation_volume=5;
+citation_pages=3916-3920;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=H. Hu;
+citation_author=R. G. Larson;
+citation_journal_title=J. Phys. Chem.
+B;
+citation_volume=110;
+citation_pages=7090-7094;citation_publication_date=2006;
+" />
+            <meta name="citation_reference" content="citation_author=R. D. Deegan;
+citation_author=O. Bakajin;
+citation_author=T. F. Dupont;
+citation_author=G. Huber;
+citation_author=S. R. Nagel;
+citation_author=T. A. Witten;
+citation_journal_title=Nature;
+citation_volume=389;
+citation_pages=827-829;citation_publication_date=1997;
+" />
+            <meta name="citation_reference" content="citation_author=L. Wang;
+citation_author=J. Wang;
+citation_author=Y. Huang;
+citation_author=M. Liu;
+citation_author=M. Kuang;
+citation_author=Y. Li;
+citation_author=L. Jiang;
+citation_author=Y. Song;
+citation_journal_title=J. Mater. Chem.;
+citation_volume=22;
+citation_pages=21405-21411;citation_publication_date=2012;
+" />
+            <meta name="citation_reference" content="citation_author=D. S. Eom;
+citation_author=J. Chang;
+citation_author=Y. W. Song;
+citation_author=J. A. Lim;
+citation_author=J. T. Han;
+citation_author=H. Kim;
+citation_author=K. Cho;
+citation_journal_title=J. Phys. Chem. C;
+citation_volume=118;
+citation_pages=27081-27090;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=L. Zhang;
+citation_author=H. Liu;
+citation_author=Y. Zhao;
+citation_author=X. Sun;
+citation_author=Y. Wen;
+citation_author=Y. Guo;
+citation_author=X. Gao;
+citation_author=C.-A. Di;
+citation_author=G. Yu;
+citation_author=Y. Liu;
+citation_journal_title=Adv. Mater.;
+citation_volume=24;
+citation_pages=436-440;citation_publication_date=2012;
+" />
+            <meta name="citation_reference" content="citation_author=H. Wang;
+citation_author=C. Cheng;
+citation_author=L. Zhang;
+citation_author=H. Liu;
+citation_author=Y. Zhao;
+citation_author=Y. Guo;
+citation_author=W. Hu;
+citation_author=G. Yu;
+citation_author=Y. Liu;
+citation_journal_title=Adv. Mater.;
+citation_volume=26;
+citation_pages=4683-4689;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=A. Albrecht;
+citation_author=A. Rivadeneyra;
+citation_author=A. Abdellah;
+citation_author=P. Lugli;
+citation_author=J. F. Salmeron;
+citation_journal_title=J. Mater. Chem. C;
+citation_volume=4;
+citation_pages=3546-3554;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=J. Perelaer;
+citation_author=M. Klokkenburg;
+citation_author=C. E. Hendriks;
+citation_author=U. S. Schubert;
+citation_journal_title=Adv. Mater.;
+citation_volume=21;
+citation_pages=4830-4834;citation_publication_date=2009;
+" />
+            <meta name="citation_reference" content="citation_author=I. Reinhold;
+citation_author=C. E. Hendriks;
+citation_author=R. Eckardt;
+citation_author=J. M. Kranenburg;
+citation_author=J. Perelaer;
+citation_author=R. R. Baumann;
+citation_author=U. S. Schubert;
+citation_journal_title=J. Mater. Chem.;
+citation_volume=19;
+citation_pages=3384-3388;citation_publication_date=2009;
+" />
+            <meta name="citation_reference" content="citation_author=V. Sanchez-Romaguera;
+citation_author=S. Wunscher;
+citation_author=B. M. Turki;
+citation_author=R. Abbel;
+citation_author=S. Barbosa;
+citation_author=D. J. Tate;
+citation_author=D. Oyeka;
+citation_author=J. C. Batchelor;
+citation_author=E. A. Parker;
+citation_author=U. S. Schubert;
+citation_author=S. G. Yeates;
+citation_journal_title=J. Mater. Chem. C;
+citation_volume=3;
+citation_pages=2132-2140;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=M. L. Allen;
+citation_author=M. Aronniemi;
+citation_author=T. Mattila;
+citation_author=A. Alastalo;
+citation_author=K. Ojanper&#228;;
+citation_author=M. Suhonen;
+citation_author=H. Sepp&#228;m;
+citation_journal_title=Nanotechnology;
+citation_volume=19;
+citation_pages=175201;citation_publication_date=2008;
+" />
+            <meta name="citation_reference" content="citation_author=S. Jang;
+citation_author=D. J. Lee;
+citation_author=D. Lee;
+citation_author=J. H. Oh;
+citation_journal_title=Thin Solid Films;
+citation_volume=546;
+citation_pages=157-161;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=D. Tobjork;
+citation_author=R. Osterbacka;
+citation_journal_title=Adv. Mater.;
+citation_volume=23;
+citation_pages=1935-1961;citation_publication_date=2011;
+" />
+            <meta name="citation_reference" content="citation_author=K. Yamada;
+citation_author=T. G. Henares;
+citation_author=K. Suzuki;
+citation_author=D. Citterio;
+citation_journal_title=Angew. Chem., Int. Ed.;
+citation_volume=54;
+citation_pages=5294-5310;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=H. Ko;
+citation_author=J. Lee;
+citation_author=Y. Kim;
+citation_author=B. Lee;
+citation_author=C.-H. Jung;
+citation_author=J.-H. Choi;
+citation_author=O.-S. Kwon;
+citation_author=K. Shin;
+citation_journal_title=Adv. Mater.;
+citation_volume=26;
+citation_pages=2335-2340;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=T. Zhang;
+citation_author=X. Wang;
+citation_author=T. Li;
+citation_author=Q. Guo;
+citation_author=J. Yang;
+citation_journal_title=J. Mater. Chem. C;
+citation_volume=2;
+citation_pages=286-294;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=N. Thi Thi;
+citation_author=M. Nogi;
+citation_author=K. Suganuma;
+citation_journal_title=J. Mater. Chem. C;
+citation_volume=1;
+citation_pages=5235-5243;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=M.-C. Hsieh;
+citation_author=C. Kim;
+citation_author=M. Nogi;
+citation_author=K. Suganuma;
+citation_journal_title=Nanoscale;
+citation_volume=5;
+citation_pages=9289-9295;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=D.-H. Lien;
+citation_author=Z.-K. Kao;
+citation_author=T.-H. Huang;
+citation_author=Y.-C. Liao;
+citation_author=S.-C. Lee;
+citation_author=J.-H. He;
+citation_journal_title=ACS Nano;
+citation_volume=8;
+citation_pages=7613-7619;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=G. Grau;
+citation_author=R. Kitsomboonloha;
+citation_author=S. L. Swisher;
+citation_author=H. Kang;
+citation_author=V. Subramanian;
+citation_journal_title=Adv. Funct. Mater.;
+citation_volume=24;
+citation_pages=5067-5074;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=H. M. Lee;
+citation_author=H. B. Lee;
+citation_author=D. S. Jung;
+citation_author=J.-Y. Yun;
+citation_author=S. H. Ko;
+citation_author=S. B. Park;
+citation_journal_title=Langmuir;
+citation_volume=28;
+citation_pages=13127-13135;citation_publication_date=2012;
+" />
+            <meta name="citation_reference" content="citation_author=A. Chauraya;
+citation_author=W. G. Whittow;
+citation_author=J. C. Vardaxoglou;
+citation_author=Y. Li;
+citation_author=R. Torah;
+citation_author=K. Yang;
+citation_author=S. Beeby;
+citation_author=J. Tudor;
+citation_journal_title=IET Microw. Antennas Propag.;
+citation_volume=7;
+citation_pages=760-767;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=P. Chen;
+citation_author=H. Chen;
+citation_author=J. Qiu;
+citation_author=C. Zhou;
+citation_journal_title=Nano Res.;
+citation_volume=3;
+citation_pages=594-603;citation_publication_date=2010;
+" />
+            <meta name="citation_reference" content="citation_author=B. Hu;
+citation_author=D. Li;
+citation_author=P. Manandharm;
+citation_author=Q. Fan;
+citation_author=D. Kasilingam;
+citation_author=P. Calvert;
+citation_journal_title=J. Mater. Chem.;
+citation_volume=22;
+citation_pages=1598-1605;citation_publication_date=2012;
+" />
+            <meta name="citation_reference" content="citation_author=B. Hu;
+citation_author=D. Li;
+citation_author=O. Ala;
+citation_author=P. Manandhar;
+citation_author=Q. Fan;
+citation_author=D. Kasilingam;
+citation_author=P. D. Calvert;
+citation_journal_title=Adv. Funct. Mater.;
+citation_volume=21;
+citation_pages=305-311;citation_publication_date=2011;
+" />
+            <meta name="citation_reference" content="citation_author=W. G. Whittow;
+citation_author=A. Chauraya;
+citation_author=J. C. Vardaxoglou;
+citation_author=Y. Li;
+citation_author=R. Torah;
+citation_author=K. Yang;
+citation_author=S. Beeby;
+citation_author=J. Tudor;
+citation_journal_title=IEEE Antennas Wirel. Propag. Lett.;
+citation_volume=13;
+citation_pages=71-74;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=Z. Stempien;
+citation_author=E. Rybicki;
+citation_author=T. Rybicki;
+citation_author=J. Lesnikowski;
+citation_journal_title=Sens. Actuators, B;
+citation_volume=224;
+citation_pages=714-725;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=T. Cheng;
+citation_author=Y. Z. Zhang;
+citation_author=W. Y. Lai;
+citation_author=W. Huang;
+citation_journal_title=Adv. Mater.;
+citation_volume=27;
+citation_pages=3349-3376;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=S. Yao;
+citation_author=Y. Zhu;
+citation_journal_title=Adv. Mater.;
+citation_volume=27;
+citation_pages=1480-1511;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=T. Q. Trung;
+citation_author=N.-E. Lee;
+citation_journal_title=Adv. Mater.;
+citation_volume=29;
+citation_pages=1603167;citation_publication_date=2017;
+" />
+            <meta name="citation_reference" content="citation_author=H. Wu;
+citation_author=Y. Huang;
+citation_author=F. Xu;
+citation_author=Y. Duan;
+citation_author=Z. Yin;
+citation_journal_title=Adv. Mater.;
+citation_volume=28;
+citation_pages=9881-9919;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=A. Vohra;
+citation_author=H. L. Filiatrault;
+citation_author=S. D. Amyotte;
+citation_author=R. S. Carmichael;
+citation_author=N. D. Suhan;
+citation_author=C. Siegers;
+citation_author=L. Ferrari;
+citation_author=G. J. E. Davidson;
+citation_author=T. B. Carmichael;
+citation_journal_title=Adv. Funct. Mater.;
+citation_volume=26;
+citation_pages=5222-5229;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=T. Kim;
+citation_author=H. Song;
+citation_author=J. Ha;
+citation_author=S. Kim;
+citation_author=D. Kim;
+citation_author=S. Chung;
+citation_author=J. Lee;
+citation_author=Y. Hong;
+citation_journal_title=Appl. Phys. Lett.;
+citation_volume=104;
+citation_pages=113103;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=S. Chung;
+citation_author=J. Lee;
+citation_author=H. Song;
+citation_author=S. Kim;
+citation_author=J. Jeong;
+citation_author=Y. Hong;
+citation_journal_title=Appl. Phys. Lett.;
+citation_volume=98;
+citation_pages=153110;citation_publication_date=2011;
+" />
+            <meta name="citation_reference" content="citation_author=J. Lee;
+citation_author=S. Chung;
+citation_author=H. Song;
+citation_author=S. Kim;
+citation_author=Y. Hong;
+citation_journal_title=J. Phys. D: Appl. Phys.;
+citation_volume=46;
+citation_pages=5;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=M. Park;
+citation_author=J. Im;
+citation_author=M. Shin;
+citation_author=Y. Min;
+citation_author=J. Park;
+citation_author=H. Cho;
+citation_author=S. Park;
+citation_author=M.-B. Shim;
+citation_author=S. Jeon;
+citation_author=D.-Y. Chung;
+citation_author=J. Bae;
+citation_author=J. Park;
+citation_author=U. Jeong;
+citation_author=K. Kim;
+citation_journal_title=Nat. Nanotechnol.;
+citation_volume=7;
+citation_pages=803-809;citation_publication_date=2012;
+" />
+            <meta name="citation_reference" content="citation_author=S. Kim;
+citation_author=J. Byun;
+citation_author=S. Choi;
+citation_author=D. Kim;
+citation_author=T. Kim;
+citation_author=S. Chung;
+citation_author=Y. Hong;
+citation_journal_title=Adv. Mater.;
+citation_volume=26;
+citation_pages=3094-3099;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=R. Guo;
+citation_author=Y. Yu;
+citation_author=Z. Xie;
+citation_author=X. Liu;
+citation_author=X. Zhou;
+citation_author=Y. Gao;
+citation_author=Z. Liu;
+citation_author=F. Zhou;
+citation_author=Y. Yang;
+citation_author=Z. Zheng;
+citation_journal_title=Adv. Mater.;
+citation_volume=25;
+citation_pages=3343-3350;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=V. Sanchez-Romaguera;
+citation_author=M. B. Madec;
+citation_author=S. G. Yeates;
+citation_journal_title=React. Funct. Polym.;
+citation_volume=68;
+citation_pages=1052-1058;citation_publication_date=2008;
+" />
+            <meta name="citation_reference" content="citation_author=A. Russo;
+citation_author=B. Y. Ahn;
+citation_author=J. J. Adams;
+citation_author=E. B. Duoss;
+citation_author=J. T. Bernhard;
+citation_author=J. A. Lewis;
+citation_journal_title=Adv. Mater.;
+citation_volume=23;
+citation_pages=3426-3430;citation_publication_date=2011;
+" />
+            <meta name="citation_reference" content="citation_author=A. Mahajan;
+citation_author=L. F. Francis;
+citation_author=C. D. Frisbie;
+citation_journal_title=ACS Appl. Mater. Interfaces;
+citation_volume=6;
+citation_pages=1306-1312;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=W. Huang;
+citation_author=K. Besar;
+citation_author=Y. Zhang;
+citation_author=S. Yang;
+citation_author=G. Wiedman;
+citation_author=Y. Liu;
+citation_author=W. Guo;
+citation_author=J. Song;
+citation_author=K. Hemker;
+citation_author=K. Hristova;
+citation_author=I. J. Kymissis;
+citation_author=H. E. Katz;
+citation_journal_title=Adv. Funct. Mater.;
+citation_volume=25;
+citation_pages=3745-3755;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=Y. Qin;
+citation_author=A. U. Alam;
+citation_author=M. M. R. Howlader;
+citation_author=N.-X. Hu;
+citation_author=M. J. Deen;
+citation_journal_title=Adv. Funct. Mater.;
+citation_volume=26;
+citation_pages=4923-4933;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=A. Chiolerio;
+citation_author=P. Rivolo;
+citation_author=S. Porro;
+citation_author=S. Stassi;
+citation_author=S. Ricciardi;
+citation_author=P. Mandracci;
+citation_author=G. Canavese;
+citation_author=K. Bejtka;
+citation_author=C. F. Pirri;
+citation_journal_title=RSC Adv.;
+citation_volume=4;
+citation_pages=51477-51485;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=J. Jiang;
+citation_author=B. Bao;
+citation_author=M. Li;
+citation_author=J. Sun;
+citation_author=C. Zhang;
+citation_author=Y. Li;
+citation_author=F. Li;
+citation_author=X. Yao;
+citation_author=Y. Song;
+citation_journal_title=Adv. Mater.;
+citation_volume=28;
+citation_pages=1420-1426;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=M. D. Thouless;
+citation_journal_title=J. Vac. Sci. Technol., A;
+citation_volume=9;
+citation_pages=2510-2515;citation_publication_date=1991;
+" />
+            <meta name="citation_reference" content="citation_author=H. Gorter;
+citation_author=M. J. J. Coenen;
+citation_author=M. W. L. Slaats;
+citation_author=M. Ren;
+citation_author=W. Lu;
+citation_author=C. J. Kuijpers;
+citation_author=W. A. Groen;
+citation_journal_title=Thin Solid Films;
+citation_volume=532;
+citation_pages=11-15;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=F. Villani;
+citation_author=P. Vacca;
+citation_author=G. Nenna;
+citation_author=O. Valentino;
+citation_author=G. Burrasca;
+citation_author=T. Fasolino;
+citation_author=C. Minarini;
+citation_author=D. della Sala;
+citation_journal_title=J. Phys. Chem. C;
+citation_volume=113;
+citation_pages=13398-13402;citation_publication_date=2009;
+" />
+            <meta name="citation_reference" content="citation_author=V. Wood;
+citation_author=M. J. Panzer;
+citation_author=J. Chen;
+citation_author=M. S. Bradley;
+citation_author=J. E. Halpert;
+citation_author=M. C. Bawendi;
+citation_author=V. Bulovic;
+citation_journal_title=Adv. Mater.;
+citation_volume=21;
+citation_pages=2151-2155;citation_publication_date=2009;
+" />
+            <meta name="citation_reference" content="citation_author=W. Xu;
+citation_author=J. Zhao;
+citation_author=L. Qian;
+citation_author=X. Han;
+citation_author=L. Wu;
+citation_author=W. Wu;
+citation_author=M. Song;
+citation_author=L. Zhou;
+citation_author=W. Su;
+citation_author=C. Wang;
+citation_author=S. Nie;
+citation_author=Z. Cui;
+citation_journal_title=Nanoscale;
+citation_volume=6;
+citation_pages=1589-1595;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=A. Sandstr&#246;m;
+citation_author=L. Edman;
+citation_journal_title=Energy Technol.;
+citation_volume=3;
+citation_pages=329-339;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=J. Liang;
+citation_author=L. Li;
+citation_author=X. Niu;
+citation_author=Z. Yu;
+citation_author=Q. Pei;
+citation_journal_title=Nat. Photonics;
+citation_volume=7;
+citation_pages=817-824;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=G. Mauthner;
+citation_author=K. Landfester;
+citation_author=A. K&#246;ck;
+citation_author=H. Br&#252;ckl;
+citation_author=M. Kast;
+citation_author=C. Stepper;
+citation_author=E. J. W. List;
+citation_journal_title=Org. Electron.;
+citation_volume=9;
+citation_pages=164-170;citation_publication_date=2008;
+" />
+            <meta name="citation_reference" content="citation_author=B. Yoon;
+citation_author=D.-Y. Ham;
+citation_author=O. Yarimaga;
+citation_author=H. An;
+citation_author=C. W. Lee;
+citation_author=J.-M. Kim;
+citation_journal_title=Adv. Mater.;
+citation_volume=23;
+citation_pages=5492-5497;citation_publication_date=2011;
+" />
+            <meta name="citation_reference" content="citation_author=B.-H. Chen;
+citation_author=S.-Y. Kao;
+citation_author=C.-W. Hu;
+citation_author=M. Higuchi;
+citation_author=K.-C. Ho;
+citation_author=Y.-C. Liao;
+citation_journal_title=ACS Appl. Mater. Interfaces;
+citation_volume=7;
+citation_pages=25069-25076;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=Z. Fan;
+citation_author=J. C. Ho;
+citation_author=T. Takahashi;
+citation_author=R. Yerushalmi;
+citation_author=K. Takei;
+citation_author=A. C. Ford;
+citation_author=Y.-L. Chueh;
+citation_author=A. Javey;
+citation_journal_title=Adv. Mater.;
+citation_volume=21;
+citation_pages=3730-3743;citation_publication_date=2009;
+" />
+            <meta name="citation_reference" content="citation_author=K. Chen;
+citation_author=W. Gao;
+citation_author=S. Emaminejad;
+citation_author=D. Kiriya;
+citation_author=H. Ota;
+citation_author=H. Y. Y. Nyein;
+citation_author=K. Takei;
+citation_author=A. Javey;
+citation_journal_title=Adv. Mater.;
+citation_volume=28;
+citation_pages=4397-4414;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=Y. Wei;
+citation_author=S. Chen;
+citation_author=F. Li;
+citation_author=Y. Lin;
+citation_author=Y. Zhang;
+citation_author=L. Liu;
+citation_journal_title=ACS Appl. Mater. Interfaces;
+citation_volume=7;
+citation_pages=14182-14191;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=S. Ma;
+citation_author=F. Ribeiro;
+citation_author=K. Powell;
+citation_author=J. Lutian;
+citation_author=C. Moller;
+citation_author=T. Large;
+citation_author=J. Holbery;
+citation_journal_title=ACS Appl. Mater. Interfaces;
+citation_volume=7;
+citation_pages=21628-21633;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=M. Gao;
+citation_author=L. Li;
+citation_author=W. Li;
+citation_author=H. Zhou;
+citation_author=Y. Song;
+citation_journal_title=Adv. Sci.;
+citation_volume=3;
+citation_pages=1600120;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=Z. Lou;
+citation_author=G. Shen;
+citation_journal_title=Adv. Sci.;
+citation_volume=3;
+citation_pages=1500287;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=G. Azzellino;
+citation_author=A. Grimoldi;
+citation_author=M. Binda;
+citation_author=M. Caironi;
+citation_author=D. Natali;
+citation_author=M. Sampietro;
+citation_journal_title=Adv. Mater.;
+citation_volume=25;
+citation_pages=6829-6833;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=D. J. Finn;
+citation_author=M. Lotya;
+citation_author=G. Cunningham;
+citation_author=R. J. Smith;
+citation_author=D. McCloskey;
+citation_author=J. F. Donegan;
+citation_author=J. N. Coleman;
+citation_journal_title=J. Mater. Chem. C;
+citation_volume=2;
+citation_pages=925-932;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=C.-C. Huang;
+citation_author=Z.-K. Kao;
+citation_author=Y.-C. Liao;
+citation_journal_title=ACS Appl. Mater. Interfaces;
+citation_volume=5;
+citation_pages=12954-12959;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=V. Dua;
+citation_author=S. P. Surwade;
+citation_author=S. Ammu;
+citation_author=S. R. Agnihotra;
+citation_author=S. Jain;
+citation_author=K. E. Roberts;
+citation_author=S. Park;
+citation_author=R. S. Ruoff;
+citation_author=S. K. Manohar;
+citation_journal_title=Angew. Chem., Int. Ed.;
+citation_volume=49;
+citation_pages=2154-2157;citation_publication_date=2010;
+" />
+            <meta name="citation_reference" content="citation_author=S. Lawes;
+citation_author=A. Riese;
+citation_author=Q. Sun;
+citation_author=N. Cheng;
+citation_author=X. Sun;
+citation_journal_title=Carbon;
+citation_volume=92;
+citation_pages=150-176;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=S. Wang;
+citation_author=N. Liu;
+citation_author=J. Tao;
+citation_author=C. Yang;
+citation_author=W. Liu;
+citation_author=Y. Shi;
+citation_author=Y. Wang;
+citation_author=J. Su;
+citation_author=L. Li;
+citation_author=Y. Gao;
+citation_journal_title=J. Mater. Chem. A;
+citation_volume=3;
+citation_pages=2407-2413;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=H. Pang;
+citation_author=Y. Zhang;
+citation_author=W.-Y. Lai;
+citation_author=Z. Hu;
+citation_author=W. Huang;
+citation_journal_title=Nano Energy;
+citation_volume=15;
+citation_pages=303-312;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=K.-H. Choi;
+citation_author=J. Yoo;
+citation_author=C. K. Lee;
+citation_author=S.-Y. Lee;
+citation_journal_title=Energy Environ. Sci.;
+citation_volume=9;
+citation_pages=2812-2821;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=M. A. Green;
+citation_author=A. Ho-Baillie;
+citation_author=H. J. Snaith;
+citation_journal_title=Nat. Photonics;
+citation_volume=8;
+citation_pages=506-514;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=P. Docampo;
+citation_author=S. Guldin;
+citation_author=T. Leijtens;
+citation_author=N. K. Noel;
+citation_author=U. Steiner;
+citation_author=H. J. Snaith;
+citation_journal_title=Adv. Mater.;
+citation_volume=26;
+citation_pages=4013-4030;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=Q. An;
+citation_author=F. Zhang;
+citation_author=J. Zhang;
+citation_author=W. Tang;
+citation_author=Z. Deng;
+citation_author=B. Hu;
+citation_journal_title=Energy Environ. Sci.;
+citation_volume=9;
+citation_pages=281-322;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=S. G. Hashmi;
+citation_author=M. Ozkan;
+citation_author=J. Halme;
+citation_author=K. D. Misic;
+citation_author=S. M. Zakeeruddin;
+citation_author=J. Paltakari;
+citation_author=M. Graetzel;
+citation_author=P. D. Lund;
+citation_journal_title=Nano Energy;
+citation_volume=17;
+citation_pages=206-215;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=R. Cherrington;
+citation_author=D. J. Hughes;
+citation_author=S. Senthilarasu;
+citation_author=V. Goodship;
+citation_journal_title=Energy Technol.;
+citation_volume=3;
+citation_pages=866-870;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=A. Mei;
+citation_author=X. Li;
+citation_author=L. Liu;
+citation_author=Z. Ku;
+citation_author=T. Liu;
+citation_author=Y. Rong;
+citation_author=M. Xu;
+citation_author=M. Hu;
+citation_author=J. Chen;
+citation_author=Y. Yang;
+citation_author=M. Gr&#228;tzel;
+citation_author=H. Han;
+citation_journal_title=Science;
+citation_volume=345;
+citation_pages=295-298;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=Z. Wei;
+citation_author=H. Chen;
+citation_author=K. Yan;
+citation_author=S. Yang;
+citation_journal_title=Angew. Chem., Int. Ed.;
+citation_volume=53;
+citation_pages=13239-13243;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=A. Singh;
+citation_author=M. Katiyar;
+citation_author=A. Garg;
+citation_journal_title=RSC Adv.;
+citation_volume=5;
+citation_pages=78677-78685;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=Y. Galagan;
+citation_author=B. Zimmermann;
+citation_author=E. W. C. Coenen;
+citation_author=M. Jorgensen;
+citation_author=D. M. Tanenbaum;
+citation_author=F. C. Krebs;
+citation_author=H. Gorter;
+citation_author=S. Sabik;
+citation_author=L. H. Slooff;
+citation_author=S. C. Veenstra;
+citation_author=J. M. Kroon;
+citation_author=R. Andriessen;
+citation_journal_title=Adv. Energy Mater.;
+citation_volume=2;
+citation_pages=103-110;citation_publication_date=2012;
+" />
+            <meta name="citation_reference" content="citation_author=D. Angmo;
+citation_author=T. T. Larsen-Olsen;
+citation_author=M. Jorgensen;
+citation_author=R. R. Sondergaard;
+citation_author=F. C. Krebs;
+citation_journal_title=Adv. Energy Mater.;
+citation_volume=3;
+citation_pages=172-175;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=D. Dodoo-Arhin;
+citation_author=R. C. T. Howe;
+citation_author=G. Hu;
+citation_author=Y. Zhang;
+citation_author=P. Hiralal;
+citation_author=A. Bello;
+citation_author=G. Amaratunga;
+citation_author=T. Hasan;
+citation_journal_title=Carbon;
+citation_volume=105;
+citation_pages=33-41;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=Y.-K. Liao;
+citation_author=M. Brossard;
+citation_author=D.-H. Hsieh;
+citation_author=T.-N. Lin;
+citation_author=M. D. B. Charlton;
+citation_author=S.-J. Cheng;
+citation_author=C.-H. Chen;
+citation_author=J.-L. Shen;
+citation_author=L.-T. Cheng;
+citation_author=T.-P. Hsieh;
+citation_author=F.-I. Lai;
+citation_author=S.-Y. Kuo;
+citation_author=H.-C. Kuo;
+citation_author=P. G. Savvidis;
+citation_author=P. G. Lagoudakis;
+citation_journal_title=Adv. Energy Mater.;
+citation_volume=5;
+citation_pages=1401280;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=P. Li;
+citation_author=C. Liang;
+citation_author=Y. Zhang;
+citation_author=F. Li;
+citation_author=Y. Song;
+citation_author=G. Shao;
+citation_journal_title=ACS Appl. Mater. Interfaces;
+citation_volume=8;
+citation_pages=32574-32580;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=S.-G. Li;
+citation_author=K.-J. Jiang;
+citation_author=M.-J. Su;
+citation_author=X.-P. Cui;
+citation_author=J.-H. Huang;
+citation_author=Q.-Q. Zhang;
+citation_author=X.-Q. Zhou;
+citation_author=L.-M. Yang;
+citation_author=Y.-L. Song;
+citation_journal_title=J. Mater. Chem. A;
+citation_volume=3;
+citation_pages=9092-9097;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=R. Kroon;
+citation_author=D. A. Mengistie;
+citation_author=D. Kiefer;
+citation_author=J. Hynynen;
+citation_author=J. D. Ryan;
+citation_author=L. Yu;
+citation_author=C. Muller;
+citation_journal_title=Chem. Soc. Rev.;
+citation_volume=45;
+citation_pages=6147-6164;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=Q. Zhang;
+citation_author=Y. Sun;
+citation_author=W. Xu;
+citation_author=D. Zhu;
+citation_journal_title=Adv. Mater.;
+citation_volume=26;
+citation_pages=6829-6851;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=D. L. Medlin;
+citation_author=G. J. Snyder;
+citation_journal_title=Curr. Opin. Colloid Interface Sci.;
+citation_volume=14;
+citation_pages=226-235;citation_publication_date=2009;
+" />
+            <meta name="citation_reference" content="citation_author=M. S. Dresselhaus;
+citation_author=G. Chen;
+citation_author=M. Y. Tang;
+citation_author=R. G. Yang;
+citation_author=H. Lee;
+citation_author=D. Z. Wang;
+citation_author=Z. F. Ren;
+citation_author=J. P. Fleurial;
+citation_author=P. Gogna;
+citation_journal_title=Adv. Mater.;
+citation_volume=19;
+citation_pages=1043-1053;citation_publication_date=2007;
+" />
+            <meta name="citation_reference" content="citation_author=M. Orrill;
+citation_author=S. LeBlanc;
+citation_journal_title=J. Appl. Polym. Sci.;
+citation_volume=134;
+citation_pages=44256;citation_publication_date=2017;
+" />
+            <meta name="citation_reference" content="citation_author=L. J. Hoong;
+citation_author=Y. C. Keat;
+citation_author=A. Chik;
+citation_author=T. P. Leng;
+citation_journal_title=Ceram. Int.;
+citation_volume=42;
+citation_pages=12064-12073;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=X. Yan;
+citation_author=B. Poudel;
+citation_author=Y. Ma;
+citation_author=W. S. Liu;
+citation_author=G. Joshi;
+citation_author=H. Wang;
+citation_author=Y. Lan;
+citation_author=D. Wang;
+citation_author=G. Chen;
+citation_author=Z. F. Ren;
+citation_journal_title=Nano Lett.;
+citation_volume=10;
+citation_pages=3373-3378;citation_publication_date=2010;
+" />
+            <meta name="citation_reference" content="citation_author=Z. Lu;
+citation_author=M. Layani;
+citation_author=X. Zhao;
+citation_author=L. P. Tan;
+citation_author=T. Sun;
+citation_author=S. Fan;
+citation_author=Q. Yan;
+citation_author=S. Magdassi;
+citation_author=H. H. Hng;
+citation_journal_title=Small;
+citation_volume=10;
+citation_pages=3551-3554;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=O. Bubnova;
+citation_author=Z. U. Khan;
+citation_author=A. Malti;
+citation_author=S. Braun;
+citation_author=M. Fahlman;
+citation_author=M. Berggren;
+citation_author=X. Crispin;
+citation_journal_title=Nat. Mater.;
+citation_volume=10;
+citation_pages=429-433;citation_publication_date=2011;
+" />
+            <meta name="citation_reference" content="citation_author=Y. Sun;
+citation_author=P. Sheng;
+citation_author=C. Di;
+citation_author=F. Jiao;
+citation_author=W. Xu;
+citation_author=D. Qiu;
+citation_author=D. Zhu;
+citation_journal_title=Adv. Mater.;
+citation_volume=24;
+citation_pages=932-937;citation_publication_date=2012;
+" />
+            <meta name="citation_reference" content="citation_author=A. Besganz;
+citation_author=V. Z&#246;llmer;
+citation_author=R. Kun;
+citation_author=E. P&#225;l;
+citation_author=L. Walder;
+citation_author=M. Busse;
+citation_journal_title=Procedia Technol.;
+citation_volume=15;
+citation_pages=99-106;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=V. Sanchez-Romaguera;
+citation_author=S. Wuenscher;
+citation_author=B. M. Turki;
+citation_author=R. Abbel;
+citation_author=S. Barbosa;
+citation_author=D. J. Tate;
+citation_author=D. Oyeka;
+citation_author=J. C. Batchelor;
+citation_author=E. A. Parker;
+citation_author=U. S. Schubert;
+citation_author=S. G. Yeates;
+citation_journal_title=J. Mater. Chem. C;
+citation_volume=3;
+citation_pages=2132-2140;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=M. Kubo;
+citation_author=X. Li;
+citation_author=C. Kim;
+citation_author=M. Hashimoto;
+citation_author=B. J. Wiley;
+citation_author=D. Ham;
+citation_author=G. M. Whitesides;
+citation_journal_title=Adv. Mater.;
+citation_volume=22;
+citation_pages=2749-2752;citation_publication_date=2010;
+" />
+            <meta name="citation_reference" content="citation_author=S. Cheng;
+citation_author=A. Rydberg;
+citation_author=K. Hjort;
+citation_author=Z. Wu;
+citation_journal_title=Appl. Phys. Lett.;
+citation_volume=94;
+citation_pages=144103;citation_publication_date=2009;
+" />
+            <meta name="citation_reference" content="citation_author=Z. Zhang;
+citation_author=X. Zhang;
+citation_author=Z. Xin;
+citation_author=M. Deng;
+citation_author=Y. Wen;
+citation_author=Y. Song;
+citation_journal_title=Nanotechnology;
+citation_volume=22;
+citation_pages=425601;citation_publication_date=2011;
+" />
+            <meta name="citation_reference" content="citation_author=N. Komoda;
+citation_author=M. Nogi;
+citation_author=K. Suganuma;
+citation_author=K. Otsuka;
+citation_journal_title=ACS Appl. Mater. Interfaces;
+citation_volume=4;
+citation_pages=5732-5736;citation_publication_date=2012;
+" />
+            <meta name="citation_reference" content="citation_author=K.-Y. Shin;
+citation_author=J.-Y. Hong;
+citation_author=J. Jang;
+citation_journal_title=Adv. Mater.;
+citation_volume=23;
+citation_pages=2113-2118;citation_publication_date=2011;
+" />
+            <meta name="citation_reference" content="citation_author=Y.-L. Tai;
+citation_author=Z.-G. Yangt;
+citation_journal_title=ACS Appl. Mater. Interfaces;
+citation_volume=7;
+citation_pages=17104-17111;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=M. Nogi;
+citation_author=N. Komoda;
+citation_author=K. Otsuka;
+citation_author=K. Suganuma;
+citation_journal_title=Nanoscale;
+citation_volume=5;
+citation_pages=4395-4399;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=T. Inui;
+citation_author=H. Koga;
+citation_author=M. Nogi;
+citation_author=N. Komoda;
+citation_author=K. Suganuma;
+citation_journal_title=Adv. Mater.;
+citation_volume=27;
+citation_pages=1112-1116;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=U. S. Bhansali;
+citation_author=M. A. Khan;
+citation_author=D. Cha;
+citation_author=M. N. AlMadhoun;
+citation_author=R. Li;
+citation_author=L. Chen;
+citation_author=A. Amassian;
+citation_author=I. N. Odeh;
+citation_author=H. N. Alshareef;
+citation_journal_title=ACS Nano;
+citation_volume=7;
+citation_pages=10518-10524;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=M. Kang;
+citation_author=K.-J. Baeg;
+citation_author=D. Khim;
+citation_author=Y.-Y. Noh;
+citation_author=D.-Y. Kim;
+citation_journal_title=Adv. Funct. Mater.;
+citation_volume=23;
+citation_pages=3503-3512;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=S. J. Benight;
+citation_author=C. Wang;
+citation_author=J. B. H. Tok;
+citation_author=Z. Bao;
+citation_journal_title=Prog. Polym. Sci.;
+citation_volume=38;
+citation_pages=1961-1977;citation_publication_date=2013;
+" />
+            <meta name="citation_reference" content="citation_author=D. Kong;
+citation_author=R. Pfattner;
+citation_author=A. Chortos;
+citation_author=C. Lu;
+citation_author=A. C. Hinckley;
+citation_author=C. Wang;
+citation_author=W.-Y. Lee;
+citation_author=J. W. Chung;
+citation_author=Z. Bao;
+citation_journal_title=Adv. Funct. Mater.;
+citation_volume=26;
+citation_pages=4680-4686;citation_publication_date=2016;
+" />
+            <meta name="citation_reference" content="citation_author=A. Chortos;
+citation_author=J. Lim;
+citation_author=J. W. F. To;
+citation_author=M. Vosgueritchian;
+citation_author=T. J. Dusseault;
+citation_author=T.-H. Kim;
+citation_author=S. Hwang;
+citation_author=Z. Bao;
+citation_journal_title=Adv. Mater.;
+citation_volume=26;
+citation_pages=4253-4259;citation_publication_date=2014;
+" />
+            <meta name="citation_reference" content="citation_author=N. Lu;
+citation_author=C. Lu;
+citation_author=S. Yang;
+citation_author=J. Rogers;
+citation_journal_title=Adv. Funct. Mater.;
+citation_volume=22;
+citation_pages=4044-4050;citation_publication_date=2012;
+" />
+            <meta name="citation_reference" content="citation_author=M. Amjadi;
+citation_author=Y. J. Yoon;
+citation_author=I. Park;
+citation_journal_title=Nanotechnology;
+citation_volume=26;
+citation_pages=375501;citation_publication_date=2015;
+" />
+            <meta name="citation_reference" content="citation_author=J. A. Fan;
+citation_author=W.-H. Yeo;
+citation_author=Y. Su;
+citation_author=Y. Hattori;
+citation_author=W. Lee;
+citation_author=S.-Y. Jung;
+citation_author=Y. Zhang;
+citation_author=Z. Liu;
+citation_author=H. Cheng;
+citation_author=L. Falgout;
+citation_author=M. Bajema;
+citation_author=T. Coleman;
+citation_author=D. Gregoire;
+citation_author=R. J. Larsen;
+citation_author=Y. Huang;
+citation_author=J. A. Rogers;
+citation_journal_title=Nat. Commun.;
+citation_volume=5;
+citation_pages=3266;citation_publication_date=2014;
+" />
+<meta content="
+      In recent years, wearable electronics have experienced tremendous development due to their promising applications in fields such as portable, flexible/stretchable human-interactive sensors, displays, and energy devices. To effectively fabricate wearable electronics, a high-efficient, cost-saving, and eco-friendly manufacture technology is required. Inkjet printing, which rapidly, precisely, and reproducibly deposits a broad variety of functional materials in a non-impact, addictive patterning, and maskless approach, serves as an effective tool for the fabrication of wearable electronics. In this review, the recent advances in inks, strategies, and the applications of inkjet-printed wearable electronics are summarized. Based on uniform and high-resolution patterns, well-compatible functional inks can be deposited to fabricate flexible/stretchable and durable wearable electronics. Perspectives on the remaining challenges and future developments are also proposed.
+    " name="citation_abstract" />
+
+<meta name="fragment" content="!" />
+
+
+    <script type="text/javascript">
+        //variables used by alpTabHistory.js
+        var Model = {
+            IsEnableRelatedContentTab: true,
+            ForwardLinkUrl: '/en/content/forwardlinks?doi=10.1039%2Fc7tc00038c',
+            SimilarArticlesUrl: '/en/content/relatedarticleschapters/c7tc00038c?title=inkjet%20printing%20wearable%20electronic%20devices&journalname=Journal%20of%20Materials%20Chemistry%20C&doctype=Review%20Article&journalthemesCount=1&authorscount=3',
+            ArticleTitleNoMarkup: 'inkjet printing wearable electronic devices - 10.1039/c7tc00038c - tc',
+            DOCType: 'Review Article',
+            ReferenceArticlesUrl: '/en/content/referencearticles',
+            IsPrintArticle: true,
+            DownloadOptionAsync: '/en/content/checkaccess?msid=c7tc00038c&type=article&pubyear=2017&sercode=tc&publicationdate=2017-03-06&pubstatus=prt&doi=10.1039%2Fc7tc00038c&ispdfexist=True&title=inkjet%20printing%20wearable%20electronic%20devices&fulltext=xml&checkFullText=True&totalPages=23',
+            ArticleTitleFull: 'inkjet printing wearable electronic devices - c7tc00038c - sercode=tc',
+            PubStatus: 'PRT',
+            JournalCode: 'TC',
+            LastIssueId: 'TC006047',
+            IssueId: 'TC005012',
+            MsId: 'C7TC00038C',
+            SameAuthorUrl: '/en/content/bythesameauthor',
+            EAlertMedium: '',
+            EAlertSearchID: '',
+            DoiExists: true,
+            LoadDownloadContents: true
+        };
+
+        $(function() {
+
+            $(".btn-icon--loading").on("click", function (e) {
+                e.preventDefault();
+            });
+
+                
+                    $("#DownloadOption").load(Model.DownloadOptionAsync);
+                
+
+        });
+    </script>
+    <script src="https://www.rsc-cdn.org/pubs-core/2018.0.549/content/Scripts/alpTabHistory.js" type="text/javascript"></script>
+
+
+    <script type="text/javascript">
+        //<![CDATA[
+
+        //YearRangeattribute client side implementation, which validate year between 1841 and till year
+        function YearRange(value, element, params) {
+            return (value > params.minYear && value <= params.maxYear);
+        }
+
+        jQuery.fn.reset = function () {
+            $(this).each(function () { this.reset(); });
+        }
+
+        function customAlertsTracker(medium, campaign) {
+            _gaq.push(['utm_source', 'saved-search']);
+            _gaq.push(['utm_medium', medium]);
+            _gaq.push(['utm_campaign', campaign]);
+        }
+
+        $.ajax({
+            url: '/en/home/branding_New',
+            cache: false,
+            success: function (data) {
+                $(document).ready(function () {
+                    $("#divWelcomeUser").html(data);
+                });
+            },
+            error: function (data) {
+                $(document).ready(function () {
+                    $("#divWelcomeUser").html(data);
+                });
+            },
+            dataType: "html"
+        });
+
+        var _gaq = _gaq || [];
+
+        _gaq.push(
+            ['_setAccount', 'UA-20361743-1'],
+            ['_setDomainName', '.rsc.org'],
+            ['_setAllowLinker', true]
+        );
+
+        //]]>
+    </script>
+
+        <!-- Google Tag Manager -->
+        <script>
+            //<![CDATA[
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || []; w[l].push({
+                    'gtm.start':
+            new Date().getTime(), event: 'gtm.js'
+                }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+        '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-56FZ7G');
+            //]]>
+        </script>
+        <!-- End Google Tag Manager -->
+
+
+</head>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"eec2473e72","applicationID":"13881625","transactionName":"ZFUBZhEEDUQEBhBbDl0fLmQgSiBYCxEBXBVwXw1GEQoPWwAXS1MTR1kAXgYJAlkBDApV","queueTime":0,"applicationTime":824,"agent":"","atts":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYFWF9aDBABV1laBgcFUw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(21),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,s){try{l?l-=1:o(s||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:c.now();i("err",[t,n])}var i=t("handle"),a=t(22),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError",l=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(13),t(12),"addEventListener"in window&&t(6),c.xhrWrappable&&t(14),d=!0)}s.on("fn-start",function(t,e,n){d&&(l+=1)}),s.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),s.on("fn-end",function(){d&&!this.thrown&&l>0&&(l-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){M++,N=y.hash,this[u]=g.now()}function o(){M--,y.hash!==N&&i(0,!0);var t=g.now();this[h]=~~this[h]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=g.now()})}var s="-start",c="-end",f="-body",u="fn"+s,d="fn"+c,p="cb"+s,l="cb"+c,h="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,g=t("loader");if(w[v]&&g.xhrWrappable){var b=t(10),x=t(11),E=t(8),O=t(6),P=t(13),R=t(7),T=t(14),L=t(9),j=t("ee"),S=j.get("tracer");t(15),g.features.spa=!0;var N,M=0;j.on(u,r),j.on(p,r),j.on(d,o),j.on(l,o),j.buffer([u,d,"xhr-done","xhr-resolved"]),O.buffer([u]),P.buffer(["setTimeout"+c,"clearTimeout"+s,u]),T.buffer([u,"new-xhr","send-xhr"+s]),R.buffer([m+s,m+"-done",m+f+s,m+f+c]),E.buffer(["newURL"]),b.buffer([u]),x.buffer(["propagate",p,l,"executor-err","resolve"+s]),S.buffer([u,"no-"+u]),L.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(T,"send-xhr"+s),a(j,"xhr-resolved"),a(j,"xhr-done"),a(R,m+s),a(R,m+"-done"),a(L,"new-jsonp"),a(L,"jsonp-end"),a(L,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,M>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),s=t(12),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",l="-start",h="-end",m="fn"+l,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(8);var b=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,e){var n=t[0];n instanceof b&&i("bst",[n,e,this.bstStart,g.now()])}),a.on(m,function(t,e,n){this.bstStart=g.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,e){i(w,[e,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+l,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(24)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=c(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?s(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(21);e.exports=o;var a=window,s="fetch-",c=s+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,l="prototype";u&&d&&p&&(i(f,function(t,e){r(u[l],e,c),r(d[l],e,c)}),r(a,"fetch",s),o.on(s+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),o.emit(s+"done",[null,e],n)}else o.emit(s+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(24)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){c.emit("jsonp-error",[],p),c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=s(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),c.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function s(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var c=t("ee").get("jsonp"),f=t(24)(c);if(e.exports=c,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,p=/^(\w+)(\.|$)(.*)$/,l=["appendChild","insertBefore","replaceChild"];f.inPlace(HTMLElement.prototype,l,"dom-"),f.inPlace(HTMLHeadElement.prototype,l,"dom-"),f.inPlace(HTMLBodyElement.prototype,l,"dom-"),c.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t(24)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=s(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(24),a=t("ee").get("promise"),s=i(a),c=t(21),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;c(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),s=f.resolve(i);return s}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),c(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=s(t[0],"resolve-",this),t[1]=s(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),s.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=s(t[0],"cb-",this),t[1]=s(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t(24)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(24)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(24)(u),p=NREUM.o,l=p.XHR,h=p.MO,m=p.PR,v=p.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var b=window.XMLHttpRequest=function(t){var e=new l(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(l,b),b.prototype=l.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(e.cat=c.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(16),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,p=t("id"),l=t(19),h=t(18),m=window.XMLHttpRequest;a.features.xhr=!0,t(14),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,l&&(l>34||l<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var s=0;s<d;s++)e.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],16:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],17:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(21),s=t(22),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[f.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],18:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],19:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],20:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}e.exports={agent:o,version:i,match:r}},{}],21:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],22:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],23:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],24:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(22),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],s])}u(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],s),d}finally{u(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<e.length;c++)s=e[c],a=t[s],r(a)||(t[s]=n(a,f?s+o:o,i,s))}function u(n,r,o){if(!c||e){var i=c;c=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}c=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),s=m(n),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[n]];return d&&d.push([b,n,r,a]),a}}function l(t,e){y[t]=m(t).concat(e)}function h(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var y={},g={},b={on:l,addEventListener:l,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var s="nr@context",c=t("gos"),f=t(21),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(g,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(21),u=t("ee"),d=t(20),p=window,l=p.document,h="addEventListener",m="attachEvent",v=p.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:v,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1099.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(17),l[h]?(l[h]("DOMContentLoaded",i,!1),p[h]("load",r,!1)):(l[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(23)},{}]},{},["loader",2,15,5,3,4]);</script><body id="pagetop" class="body_new 
+    oxy-ui pubs-ui alp-page
+">
+
+        <!-- Google Tag Manager (noscript) -->
+        <noscript>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-56FZ7G"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        <!-- End Google Tag Manager (noscript) -->
+
+
+    <div class="oxy-ui pubs-ui">
+
+            <div data-id="pnlAccSkipLinks" class="skipto-control">
+                <a href="#maincontent" class="skipto__link">
+                    <div class="viewport r-gutter">
+                        Jump to main content <img src="https://www.rsc-cdn.org/pubs-core/2018.0.549/content/Oxygen/images/icons/arrow-right-o-light.png" width="24" class="ver-m" alt="">
+                    </div>
+                </a>
+                <a href="#SearchText" class="skipto__link">
+                    <div class="viewport r-gutter">
+                        Jump to site search <img src="https://www.rsc-cdn.org/pubs-core/2018.0.549/content/Oxygen/images/icons/arrow-right-o-light.png" width="24" class="ver-m" alt="">
+                    </div>
+                </a>
+            </div>
+
+        <div data-id="pnlGlobalHeader" class="pubs-header">
+            <div class="viewport">
+                <div class="pubs-header__wrapper">
+                    <div class="pubs-header__cell pubs-header__cell--menu">
+                        <a href="#" class="pubs-header__btn pubs-header__btn--open" aria-label="Go to site menu"><img src="https://www.rsc-cdn.org/pubs-core/2018.0.549/content/Oxygen/images/icons/menu-light.png" width="24" alt=""></a>
+                    </div>
+
+                    <div class="pubs-header__cell pubs-header__cell--home">
+                        <a href="/" class="pubs-header__link pubs-header__link--home" title="Publishing home page" aria-label="Publishing home page">Publishing</a>
+                    </div>
+
+
+
+
+
+<div class="pubs-header__cell pubs-header__cell--nav">
+    <nav class="pubs-header__nav">
+        <ul>
+                    <li class="pubs-header__nav-item"><a href="/en/journals?key=title&amp;value=current" class="pubs-header__link" aria-label="Journals" target="_self">Journals</a></li>
+                    <li class="pubs-header__nav-item"><a href="/en/ebooks?key=title&amp;value=newtitle" class="pubs-header__link" aria-label="Books" target="_self">Books</a></li>
+                    <li class="pubs-header__nav-item"><a href="http://www.rsc.org/journals-books-databases/databases-literature-updates/" class="pubs-header__link" aria-label="Databases" target="_blank">Databases</a></li>
+        </ul>
+    </nav>
+</div>
+
+
+
+
+<div class="pubs-header__cell pubs-header__cell--search">
+    <div class="pubs-search-control">
+<form action="/en/results" id="SimpleSearch-form" method="post">            <input autocomplete="off" class="pubs-search__input" id="SearchText" name="SearchText" type="text" value="" />
+            <div class="pubs-search__actions">
+                <button class="input__search-submit" type="submit" aria-label="Search" id="btnNavSearchInput"><img src="https://www.rsc-cdn.org/pubs-core/2018.0.549/content/Oxygen/images/icons/arrow-right.png" width="32" alt=""></button>
+                <a class="pubs-search__adv-link" href="/en/search/AdvancedSearch" aria-label="Advanced search" id="advancedLink">Advanced</a>
+            </div>
+                <span class="pubs-search__icon"></span>
+</form>    </div>
+</div>
+
+
+<script>
+    var $fullText = 'Full Text';
+    var urll = 'http://pubs.rsc.org/suggestions/live-15.x-suggestions/getfreetextsuggestions_json.xqy?q=';
+    function checkArrayForJQueryJSONFail(aArray) {
+
+        if (aArray.length > 0 && aArray[0].length == 1) {
+            var i;
+            for (i = 0; i < aArray.length; i++) {
+                //alert(aArray[i]);
+                if (aArray[i].length > 1) {
+                    return false;
+                }
+            }
+            return true;
+        }
+        else {
+            return false;
+        }
+        return true;
+    }
+
+    $(document).ready(function () {
+
+        $("#SimpleSearch-form").on("submit", function () {
+            var serachterm = $("#SearchText").val();
+            serachterm = jQuery.trim(serachterm);
+
+            if (serachterm.indexOf("'") != -1) {
+                serachterm.replace("'", "\'");
+            }
+            if (serachterm == "") {
+                alert("Please specify search criteria");
+                $("#SearchText").focus();
+                return false;
+            }
+        });
+
+        $("#advancedLink").on("click", function () {
+            var strQuery = "";
+            var freetextVal = escape($("#SearchText").val());
+            if (freetextVal != "") {
+                var title = ":";
+                strQuery = "?keywords=" + title + encodeURI(unescape(freetextVal));
+            }
+            this.href = this.href + strQuery;
+
+            return true;
+        });
+
+    });
+</script>
+
+
+                    <div class="pubs-header__cell pubs-header__cell--login">
+                            <a href="/en/account/logon" class="pubs-header__btn" aria-label="Log in or register"><img src="https://www.rsc-cdn.org/pubs-core/2018.0.549/content/Oxygen/images/icons/user-light.png" width="24" alt="" id="userIcon"></a>
+                    </div>
+
+
+<div class="pubs-header__cell pubs-header__cell--trolley">
+    <a href="https://www.rsc.org/basket/shoppingcart/orderitems?returnurl=https://pubs.rsc.org/en/content/articlelanding/2017/tc/c7tc00038c" class="pubs-header__btn" aria-label="View your basket"><img src="https://www.rsc-cdn.org/pubs-core/2018.0.549/content/Oxygen/images/icons/trolley-light.png" width="24" alt="" id="trolleyIcon"></a>
+    <span class="badge badge--count" style="display:none"></span>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        GetOrderItemCount();
+    });
+    function SetOrderItemCount(data) {
+        var basketCount = parseInt(data);
+        if (basketCount < 0) {
+            basketCount = 0;
+        }
+        if (basketCount != null && basketCount != undefined && basketCount > 0) {
+            $(".badge--count").show();
+            $(".badge--count").html(data);
+        }
+        else
+        {
+            $(".badge--count").hide();
+        }
+    }
+    function GetOrderItemCount() {
+        var ec_ot = getCookie("BasketCookieGuid");
+        var mg_s_t = '', getCountUrl = '';
+        var userDetails;
+        userDetails = getCookie("ud");
+        if (typeof ec_ot === 'undefined') {
+        }
+        else {
+            $.ajax({
+                type: "GET",
+                url: "https://www.rsc.org/basket/shoppingcart/getorderitemcount",
+                data: "orderToken=" + ec_ot + "&isAjaxCall=True&registeredurl=",
+                cache: false,
+                async: false,
+                crossDomain: true,
+                dataType: 'jsonp',
+                success: function (html) {
+                    SetOrderItemCount(html);
+                }
+            });
+        }
+    }
+    function getCookie(c_name) {
+        var c_value = document.cookie;
+        var c_start = c_value.indexOf(" " + c_name + "=");
+        if (c_start == -1) {
+            c_start = c_value.indexOf(c_name + "=");
+        }
+        if (c_start == -1) {
+            c_value = null;
+        }
+        else {
+            c_start = c_value.indexOf("=", c_start) + 1;
+            var c_end = c_value.indexOf(";", c_start);
+            if (c_end == -1) {
+                c_end = c_value.length;
+            }
+            c_value = unescape(c_value.substring(c_start, c_end));
+        }
+        return c_value;
+    }
+</script>
+
+                    <div class="pubs-header__cell pubs-header__cell--logo">
+                        <a href="http://www.rsc.org" class=""><img src="https://www.rsc-cdn.org/pubs-core/2018.0.549/content/NewImages/rsc-online-logo-trans.png" height="40" alt="Royal Society of Chemistry homepage"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+<div class="pubs-nav-drawer">
+    <nav class="pubs-nav-control">
+        <div class="pubs-nav__header">
+            <a href="#" class="pubs-header__btn pubs-nav__close" tabindex="-1" aria-label="You are in the site menu. (Click to close)"><img src="https://www.rsc-cdn.org/pubs-core/2018.0.549/content/Oxygen/images/icons/cross-light.png" width="24" alt=""></a>
+            <a href="/" class="pubs-header__link--home pubs-nav__title" tabindex="-1" title="Publishing home page" aria-label="Publishing home page">Publishing</a>
+        </div>
+        <div class="pubs-nav__body scrollbar--slim">
+                    <div class="pubs-nav__list autopad--h">
+                        <div class="pubs-nav__item">
+                            <a href="/en/journals?key=title&amp;value=current" class="pubs-nav__link" target="_self" tabindex="-1">Journals</a>
+                        </div>
+                                <div class="pubs-nav__item pubs-nav__indent">
+                                        <a target="_self" href="/en/journals?key=title&amp;value=current" class="pubs-nav__link" tabindex="-1">Current Journals</a>
+                                </div>
+                                <div class="pubs-nav__item pubs-nav__indent">
+                                        <a target="_self" href="/en/journals?key=title&amp;value=archive" class="pubs-nav__link" tabindex="-1">Archive Journals</a>
+                                </div>
+                                <div class="pubs-nav__item pubs-nav__indent">
+                                        <a target="_self" href="/en/journals?key=title&amp;value=all" class="pubs-nav__link" tabindex="-1">All Journals</a>
+                                </div>
+
+                    </div>
+                    <div class="pubs-nav__list autopad--h">
+                        <div class="pubs-nav__item">
+                            <a href="/en/ebooks?key=title&amp;value=newtitle" class="pubs-nav__link" target="_self" tabindex="-1">Books</a>
+                        </div>
+                                <div class="pubs-nav__item pubs-nav__indent">
+                                        <a target="_self" href="/en/ebooks?key=title&amp;value=newtitle" class="pubs-nav__link" tabindex="-1">New Titles</a>
+                                </div>
+                                <div class="pubs-nav__item pubs-nav__indent">
+                                        <a target="_self" href="/en/ebooks?key=title&amp;value=all" class="pubs-nav__link" tabindex="-1">All</a>
+                                </div>
+                                <div class="pubs-nav__item pubs-nav__indent">
+                                        <a target="_blank" href="http://pubs.rsc.org/bookshop/" class="pubs-nav__link" tabindex="-1">Bookshop</a>
+                                </div>
+                                <div class="pubs-nav__item pubs-nav__indent">
+                                        <a target="_self" href="/en/pickandchoose/login" class="pubs-nav__link" tabindex="-1">Pick and Choose</a>
+                                </div>
+
+                    </div>
+                    <div class="pubs-nav__list autopad--h">
+                        <div class="pubs-nav__item">
+                            <a href="http://www.rsc.org/journals-books-databases/databases-literature-updates/" class="pubs-nav__link" target="_blank" tabindex="-1">Databases</a>
+                        </div>
+                                <div class="pubs-nav__item pubs-nav__indent">
+                                        <a target="_blank" href="http://www.rsc.org/journals-books-databases/databases-literature-updates/" class="pubs-nav__link" tabindex="-1">Literature Updates</a>
+                                </div>
+                                <div class="pubs-nav__item pubs-nav__indent">
+                                        <a target="_blank" href="http://www.chemspider.com/" class="pubs-nav__link" tabindex="-1">ChemSpider</a>
+                                </div>
+                                <div class="pubs-nav__item pubs-nav__indent">
+                                        <a target="_blank" href="https://www.rsc.org/merck-index" class="pubs-nav__link" tabindex="-1">The Merck Index*</a>
+                                </div>
+                                <div class="pubs-nav__item pubs-nav__indent">
+                                        <a target="_blank" href="http://pubs.rsc.org/marinlit/" class="pubs-nav__link" tabindex="-1">MarinLit</a>
+                                </div>
+
+                    </div>
+                    <div class="pubs-nav__list autopad--h">
+                        <div class="pubs-nav__item">
+                            <a href="#" class="pubs-nav__link" target="_self" tabindex="-1">More</a>
+                        </div>
+                                <div class="pubs-nav__item pubs-nav__indent">
+                                        <a target="_blank" href="http://www.rsc.org/resources-tools/research-tools/#access" class="pubs-nav__link" tabindex="-1">For Members</a>
+                                </div>
+                                <div class="pubs-nav__item pubs-nav__indent">
+                                        <a target="_self" href="/en/librarian/home" class="pubs-nav__link" tabindex="-1">For Librarians</a>
+                                </div>
+                                <div class="pubs-nav__item pubs-nav__indent">
+                                        <a target="_blank" href="http://www.rsc.org/Publishing/Journals/forms/V5profile.asp" class="pubs-nav__link" tabindex="-1">Subscribe</a>
+                                </div>
+                                <div class="pubs-nav__item pubs-nav__indent">
+                                        <a target="_self" href="/en/ealerts/rssfeed" class="pubs-nav__link" tabindex="-1">RSS Feeds</a>
+                                </div>
+                                <div class="pubs-nav__item pubs-nav__indent">
+                                        <a target="_blank" href="http://blogs.rsc.org/" class="pubs-nav__link" tabindex="-1">Blogs</a>
+                                </div>
+                                <div class="pubs-nav__item pubs-nav__indent">
+                                        <a target="_blank" href="https://www.chemistryworld.com/" class="pubs-nav__link" tabindex="-1">Chemistry World</a>
+                                </div>
+                                <div class="pubs-nav__item pubs-nav__indent">
+                                        <a target="_blank" href="https://eic.rsc.org/" class="pubs-nav__link" tabindex="-1">Education in Chemistry</a>
+                                </div>
+                                <div class="pubs-nav__item pubs-nav__indent">
+                                        <a target="_blank" href="http://www.rsc.org/journals-books-databases/open-access/" class="pubs-nav__link" tabindex="-1">Open Access</a>
+                                </div>
+                                <div class="pubs-nav__item pubs-nav__indent">
+                                        <a target="_blank" href="http://pubs.rsc.org/historical-collection" class="pubs-nav__link" tabindex="-1">Historical Collection</a>
+                                </div>
+
+                    </div>
+
+        </div>
+    </nav>
+</div>
+
+
+        <div class="auth-header" data-id="pnlAuthHeader">
+            <div data-id="pnlSignIn"></div>
+            <div class="viewport">
+                <div class="auth-header__institute-access">
+                    <div class="auth-header__institute-messaging">
+                        <span id="divWelcomeUser"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+
+
+    
+
+    <div >
+        <div >
+            <noscript>
+                <div class="viewport autopad--h fixpadb--m">
+                    <div class="plate plate--warning">
+                        You do not have JavaScript enabled. Please enable JavaScript
+                        to access the full features of the site or access our
+                        <a href="/en/home/nonjavascriptversion">non-JavaScript page</a>.
+                    </div>
+                </div>
+            </noscript>
+            <div id="maincontent">
+                
+
+
+
+
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+<script>
+    googletag.cmd.push(function () {
+        googletag.defineSlot('/97414310/pubs_journal_tc_mpu_1', [300, 250], 'div-dfp-ad-1').addService(googletag.pubads());
+        googletag.defineSlot('/97414310/pubs_journal_tc_mpu_2', [300, 250], 'div-dfp-ad-2').addService(googletag.pubads());
+        googletag.defineSlot('/97414310/pubs_journal_tc_mpu_3', [300, 250], 'div-dfp-ad-3').addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+    });
+</script>
+
+
+
+
+
+
+
+
+
+
+<input type="hidden" id="clicked_GetPatents" value="false" />
+<input id="pageNumberTab" type="hidden" />
+<input id="CitedByPN" type="hidden" />
+
+<br>
+<div class="viewport">
+
+    <div class="layout-control">
+        <div class="layout__panel layout__panel--primary layout__panel--60 layout__panel--filled">
+            <section class="layout__content layout__content--padded">
+
+                <div class="article-nav">
+
+                        <div class="article-nav__issue autopad--h">
+                            <a href="/en/journals/journal/tc?issueid=tc005012&amp;type=current&amp;issnprint=2050-7526" aria-label="From Issue Issue 12, 2017. Click to view all articles in this issue." title="Issue 12, 2017">Issue 12, 2017</a>
+                        </div>
+
+                        <div class="article-nav__bar">
+                            <a href="/en/Content/ArticleLanding/TC/2017/C7TC90049J">Previous <span class="v-mobile-hide--inline">Article</span></a>
+                            <a href="/en/Content/ArticleLanding/TC/2017/C7TC00121E">Next <span class="v-mobile-hide--inline">Article</span></a>
+                        </div>
+
+                    <div class="list-control">
+                        <ul class="list__collection--image">
+                            <li class="list__item">
+                                <a href="/en/journals/journal/tc" class="list__item-link">
+                                    <span class="list__image-col">
+                                        <img src="/en/Image/Get?imageInfo.ImageType=CoverIssue&amp;imageInfo.ImageIdentifier.SerCode=TC&amp;imageInfo.ImageIdentifier.IssueId=TC005012" id="imgLoader" title="Journal cover: Journal of Materials Chemistry C" alt="" class="list__item-img" height="88">
+                                    </span>
+                                    <span class="list__text-col">
+                                        <span class="list__item-label">
+                                            <span class="page-head__context">From the journal:</span>
+                                            <h3 class="h--heading3 no-heading">Journal of Materials Chemistry C</h3>
+                                        </span>
+                                    </span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <br>
+                </div>
+
+                <article class="article-control" aria-label="Article abstract">
+                    <div class="article__title">
+                        <h2 class="capsule__title fixpadv--m">Inkjet printing wearable electronic devices </h2>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            if (!$("html").hasClass("ie8")) {
+                $.ajax({
+                    url: "https://crossmark-cdn.crossref.org/widget/v2.0/widget.js",
+                    dataType: "script",
+                    cache: true
+                }).done(function() {
+                    $(".crossmark-button").addClass("visible");
+                });
+            }
+        });
+    </script>
+    <div class="fixpadv--m crossmark-button">
+        <a data-target="crossmark"><img width="150" src="https://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_Color_horizontal.svg" /></a>
+    </div>
+
+                    </div>
+                    <div class="article__authors" aria-label="List of authors">
+        <span class="article__author-link">
+
+<a href="/en/results?searchtext=Author%3AMeng%20Gao">Meng Gao</a>,<sup>a</sup><sup>b</sup>&nbsp;
+
+        </span>
+        <span class="article__author-link">
+
+<a href="/en/results?searchtext=Author%3ALihong%20Li">Lihong Li</a><span style="font-size: 16px;">*</span><sup>a</sup>&nbsp; and&nbsp; 
+
+        </span>
+        <span class="article__author-link">
+
+<a href="/en/results?searchtext=Author%3AYanlin%20Song">Yanlin Song</a><span style="font-size: 16px;">*</span><sup>a</sup>&nbsp;
+
+        </span>
+
+                    </div>
+    <div class="drawer-control fixpadv--m">
+        <a href="#" class="drawer__handle">
+            <span class="drawer__icon"></span> Author affiliations
+        </a>
+        <div class="drawer__content">
+            <div>
+                    <p class="article__author-affiliation">
+                        <span>
+*                        </span>
+
+                        <span>
+                            Corresponding authors
+
+                                                                                                            </span>
+                    </p>
+                    <p class="article__author-affiliation">
+                        <span>
+                                <sup>a</sup>
+                        </span>
+
+                        <span>
+                            Key Laboratory of Green Printing, Institute of Chemistry, Chinese Academy of Sciences, Beijing 100190, P. R. China
+
+                                <br />
+                                <b>E-mail:</b>
+                                    <a href="mailto:lilihong1209@iccas.ac.cn" title="lilihong1209@iccas.ac.cn">lilihong1209@iccas.ac.cn</a>,                                     <a href="mailto:ylsong@iccas.ac.cn" title="ylsong@iccas.ac.cn">ylsong@iccas.ac.cn</a>                                                                                                            </span>
+                    </p>
+                    <p class="article__author-affiliation">
+                        <span>
+                                <sup>b</sup>
+                        </span>
+
+                        <span>
+                            School of Chemistry and Chemical Engineering, University of Chinese Academy of Sciences, Beijing 100049, P. R. China
+
+                                                                                                            </span>
+                    </p>
+            </div>
+        </div>
+    </div>
+
+                    <h3 class="h--heading3">Abstract</h3>
+                    <div class="capsule__column-wrapper">
+
+
+        <div class="capsule__text">
+            
+      <p xmlns="http://www.rsc.org/schema/rscart38">In recent years, wearable electronics have experienced tremendous development due to their promising applications in fields such as portable, flexible/stretchable human-interactive sensors, displays, and energy devices. To effectively fabricate wearable electronics, a high-efficient, cost-saving, and eco-friendly manufacture technology is required. Inkjet printing, which rapidly, precisely, and reproducibly deposits a broad variety of functional materials in a non-impact, addictive patterning, and maskless approach, serves as an effective tool for the fabrication of wearable electronics. In this review, the recent advances in inks, strategies, and the applications of inkjet-printed wearable electronics are summarized. Based on uniform and high-resolution patterns, well-compatible functional inks can be deposited to fabricate flexible/stretchable and durable wearable electronics. Perspectives on the remaining challenges and future developments are also proposed.</p>
+    
+        </div>
+            <div class="capsule__article-image fixpadv--s">
+                <img title="Graphical abstract" alt="Graphical abstract: Inkjet printing wearable electronic devices"
+                     src="/en/Image/Get?imageInfo.ImageType=GA&amp;imageInfo.ImageIdentifier.ManuscriptID=C7TC00038C" />
+            </div>
+
+                    </div>
+                    <p></p>
+
+
+    <div class="pnl pnl--border pnl--drop">
+        <div class="list-control">
+            <ul class="list__collection">
+                <li class="list__item">
+                    This article is part of the themed collection:
+                    
+<a href="/en/journals/articlecollectionlanding?sercode=tc&amp;themeid=380a4b17-96f6-436e-9d0d-e6d66c34f5cf">Recent Review Articles</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+
+                </article>
+
+            </section>
+
+        </div>
+        <div class="layout__panel layout__panel--secondary layout__panel--40 layout__panel--filled">
+
+            <section class="layout__content">
+
+                <input id="HidALPSelectIndex" name="HidALPSelectIndex" type="hidden" value="" />
+                <input id="contentType" name="contentType" type="hidden" value="" />
+
+                <div class="tab-control">
+
+                    <nav class="tab__nav" role="tablist">
+                        <div class="tab__item"><a href="#pnlAbstract" class="tab__btn selected" id="btnAbstract" aria-selected="true" aria-label="About tab: More information about this article including download and purchase options.">About</a></div>
+                        <div class="tab__item"><a href="#pnlCitation" class="tab__btn" id="btnCitation" aria-selected="false" aria-label="Cited by tab: A list of other articles that have cited this article.">Cited by</a></div>
+                            <div class="tab__item"><a href="#pnlRelatedContent" class="tab__btn" id="btnRelatedContent" aria-selected="false" aria-label="Related tab: A list of related articles.">Related</a></div>
+                    </nav>
+
+                    
+                    <div class="tab__panel open" id="pnlAbstract" aria-hidden="false" aria-labelledby="btnAbstract" data-loaded="false">
+                        <div class="fixpadv--m">
+                            <a href="#btnAbstract" class="acc__link" aria-label="You are in the 'About' tab: Press Enter to return to tab navigation.">Back to tab navigation</a>
+
+                            <div id="divAbout">
+                                    <div id="DownloadOption" class="autopad--h fixpadv--l" style="min-height: 150px;">
+                                        <div class="text--centered">
+                                            <a href="#" class="btn btn--cta btn--disabled btn--block btn--stack btn-icon btn-icon--loading">
+                                                Download options <span class="btn-info">Please wait...</span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                
+
+                                <div class="autopad--h">
+                                    <!-- Deferred Altmetric -->
+<div class="pos--right fixpadv--xs">
+    <script type="text/javascript">
+        function downloadJSAtOnload() {
+            var element = document.createElement("script");
+            element.src = "https://d1bxh8uas1mnw7.cloudfront.net/assets/altmetric_badges-8f271adb184c21cc5169a7f67f7fe5ab.js";
+            element.id = "altmetric-embed-js";
+            document.body.appendChild(element);
+        }
+        if (window.addEventListener) {
+            window.addEventListener("load", downloadJSAtOnload, false);
+        }
+        else if (window.attachEvent) {
+            window.attachEvent("onload", downloadJSAtOnload);
+        }
+        else {
+            window.onload = downloadJSAtOnload;
+        }
+    </script>
+    <div data-badge-type="2" data-doi="10.1039/C7TC00038C" data-condensed="true" class="altmetric-embed"></div>
+</div>                                    
+
+    <h2 class="h--heading3">Publication details</h2>
+    <p>
+        The article was
+
+            received on 04 Jan 2017,
+
+            accepted on 18 Feb 2017
+
+and            first published on 06 Mar 2017
+    </p>
+                                    <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5ba6280dc0b59c001766ece2&product=inline-share-buttons" async="async"></script>
+<div style="display: table; width: 100%; margin-bottom: 1.5em;">
+    <div class="sharethis-inline-share-buttons"></div>
+</div>
+                                                                    </div>
+                                <br />
+                                <div class="list-control">
+                                    <div class="list__collection--columnised">
+                                        <div class="list__item--dashed">
+                                            <span class="list__item-label">Article type:</span>
+                                            <span class="list__item-data">Review Article</span>
+                                        </div>
+                                        <div class="list__item--dashed">
+                                                <span class="list__item-label">DOI:</span>
+                                                <span class="list__item-data">10.1039/C7TC00038C</span>
+                                        </div>
+                                        <div class="list__item--dashed">
+                                            <span class="list__item-label">Citation:</span>
+                                                <span class="list__item-data" aria-label="&lt;i&gt;&lt;strong&gt;J. Mater. Chem. C&lt;/strong&gt;&lt;/i&gt;, 2017,&lt;span style=&#39;padding-right:2px&#39;&gt;&lt;/span&gt;&lt;strong&gt;5&lt;/strong&gt;, 2971-2993">
+                                                    <i><strong>J. Mater. Chem. C</strong></i>, 2017,<span style='padding-right:2px'></span><strong>5</strong>, 2971-2993
+                                                    <br>
+<form action="/en/content/getformatedresult/c7tc00038c?downloadtype=article" method="post">                                                        <div class="select-basic">
+                                                            <span>
+                                                                <select aria-labelledby="ResultAbstractFormat_Label" class="select-field" id="ResultAbstractFormat" name="ResultAbstractFormat"><option>BibTex</option>
+<option>EndNote</option>
+<option>MEDLINE</option>
+<option>ProCite</option>
+<option>ReferenceManager</option>
+<option>RefWorks</option>
+<option>RIS</option>
+</select>
+
+                                                            </span>
+                                                            <span>
+                                                                    <input type="submit" name="go" id="Submit1" value="Go" class="btn btn--tiny" onclick="gaTrack()"
+                                                                           aria-labelledby="ResultAbstractFormat_Label" />
+                                                            </span>
+                                                        </div>
+</form>                                                </span>
+                                        </div>
+                                    </div>
+                                    <ul class="list__collection--columnised">
+                                        <li class="list__item">
+
+
+
+
+<li class="list__item--dashed">
+    
+    
+    <span class="list__item-label">&nbsp;</span>
+
+    
+    <span class="alp-request-permissions">
+
+        
+        <a class="alp-request-permissions__open-btn btn btn--tiny btn--std text--caption a--noline" id="requestPermission" 
+           rel="license" href="#" target="_blank" aria-label="Request permissions: Click to open.">
+            Request permissions
+        </a>
+
+        
+        <div class="alp-request-permissions__content scrollbar--slim">
+            
+            <a href="#" class="alp-request-permissions__close-btn btn__enter-popup"
+               aria-label="You are in the 'Request permissions' pop up window. Click enter to close, or tab to continue.">
+                <img src="https://www.rsc-cdn.org/pubs-core/2018.0.549/content/Oxygen/images/icons/cross.png" class="icon" width="24" alt="">
+            </a>
+            
+            <h3 class="h--heading3">
+                Inkjet printing wearable electronic devices
+            </h3>
+
+            <div>
+
+ M. Gao, L. Li and Y. Song,
+                <i>J. Mater. Chem. C</i>, 2017,&nbsp;<strong>5</strong>, 2971
+
+                    <div>
+                        <strong>DOI: </strong> 10.1039/C7TC00038C
+                    </div>
+
+            </div>
+
+<div class="popup_mid_content">
+    <p class="padT10L0">
+        If you are not the author of this article and you wish to reproduce material from
+        it in a third party non-RSC publication you must <a href="http://www.copyright.com/openurl.do?issn=2050-7534&amp;amp;WT.mc.id=Royal%20Society%20of%20Chemistry">
+            formally request permission</a> using Copyright Clearance Center.
+        Go to our <a href="http://www.rsc.org/AboutUs/Copyright/instructions-for-using-RightsLink.asp" id="rightsLinkInstruction" class="request_new_popup">
+            Instructions for using Copyright Clearance Center page</a> for details.
+    </p>
+    <p class="padB10">
+        Authors contributing to RSC publications (journal articles, books or book chapters)
+        do not need to formally request permission to reproduce material contained in this
+        article provided that the correct acknowledgement is given with the reproduced material.
+    </p>
+    <p class="padB10">
+        Reproduced material should be attributed as follows:
+    </p>
+    <div class="req_popup">
+        <ul>
+            <li>
+                For reproduction of material from NJC:
+                <br />
+                Reproduced from Ref. XX with permission from the Centre National de la Recherche
+                Scientifique (CNRS) and The Royal Society of Chemistry.
+            </li>
+            <li>
+                For reproduction of material from PCCP:
+                <br />
+                Reproduced from Ref. XX with permission from the PCCP Owner Societies.
+            </li>
+            <li>
+                For reproduction of material from PPS:
+                <br />
+                Reproduced from Ref. XX with permission from the European Society for Photobiology,
+                the European Photochemistry Association, and The Royal Society of Chemistry.
+            </li>
+            <li>
+                For reproduction of material from all other RSC journals and books:
+                <br />
+                Reproduced from Ref. XX with permission from The Royal Society of Chemistry.
+
+            </li>
+        </ul>
+    </div>
+    <p class="padB10">
+        If the material has been adapted instead of reproduced from the original RSC publication
+        "Reproduced from" can be substituted with "Adapted from".
+    </p>
+    <p class="padB10">
+        In all cases the Ref. XX is the XXth reference in the list of references.
+    </p>
+    <p class="padB10">
+        If you are the author of this article you do not need to formally request permission
+        to reproduce figures, diagrams etc. contained in this article in third party publications
+        or in a thesis or dissertation provided that the correct acknowledgement is given
+        with the reproduced material.
+    </p>
+    <p class="padB10">
+        Reproduced material should be attributed as follows:
+    </p>
+    <div class="req_popup">
+        <ul>
+            <li>
+                For reproduction of material from NJC:
+                <br />
+                [Original citation] - Reproduced by permission of The Royal Society of Chemistry (RSC) on behalf of the
+                Centre National de la Recherche Scientifique (CNRS) and the RSC
+            </li>
+            <li>
+                For reproduction of material from PCCP:
+                <br />
+                [Original citation] - Reproduced by permission of the PCCP Owner Societies
+            </li>
+            <li>
+                For reproduction of material from PPS:
+                <br />
+                [Original citation] - Reproduced by permission of The Royal Society of Chemistry (RSC) on behalf of the
+                European Society for Photobiology, the European Photochemistry Association, and
+                RSC
+            </li>
+            <li>
+                For reproduction of material from all other RSC journals:
+                <br />
+                [Original citation] - Reproduced by permission of The Royal Society of Chemistry
+            </li>
+        </ul>
+    </div>
+    <p class="padB10">
+        If you are the author of this article you still need to obtain permission to reproduce
+        the whole article in a third party publication with the exception of reproduction
+        of the whole article in a thesis or dissertation.
+    </p>
+    <p class="padB10">
+        Information about reproducing material from RSC articles with different licences
+        is available on our <a href="http://www.rsc.org/AboutUs/Copyright/Permissionrequests.asp" id="PermissionRequest" class="request_new_popup">Permission Requests page</a>.
+    </p>
+</div>
+
+            <a href="#" class="alp-request-permissions__close-btn btn__exit-popup" aria-label="You are at the end of the 'Request permissions' pop up window. Click enter to close, or tab to continue."><img src="https://www.rsc-cdn.org/pubs-core/2018.0.549/content/Oxygen/images/icons/cross.png" class="icon" width="24" alt=""></a>
+
+        </div>
+
+    </span>
+
+</li>                                        </li>
+                                    </ul>
+                                </div>
+
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#Search").click(function () {
+            var authorList = '';
+            var checkboxeschecked = '';
+            var DOI = $('#DOI').val();
+
+            $('input[type=checkbox]').each(function () {
+                if (this.checked) {
+                    checkboxeschecked = 'true';
+                    authorList = $(this).attr("givenName") + ":" + $(this).attr("familyName") + "|" + authorList;
+                }
+            });
+            authorList = authorList.slice(0, authorList.length - 1);
+            $("#selectedAuthors").attr("value", authorList);
+
+            if (checkboxeschecked != 'true') {
+                alert('Please select at least one author');
+                return false;
+            }
+        });
+    });
+</script>
+
+<form action="/en/results/searchbyauthor" id="SearchByAuthor" method="post">    <div class="autopad">
+        <h2 class="h--heading3">Search articles by author</h2>
+        <div class="input-group">
+                <div class="input__checkbox">
+                    <input type="checkbox" id="1" givenname="Meng" familyname="Gao">
+                    <label for="1" class="input__label">Meng Gao</label>
+                </div>
+                <div class="input__checkbox">
+                    <input type="checkbox" id="2" givenname="Lihong" familyname="Li">
+                    <label for="2" class="input__label">Lihong Li</label>
+                </div>
+                <div class="input__checkbox">
+                    <input type="checkbox" id="3" givenname="Yanlin" familyname="Song">
+                    <label for="3" class="input__label">Yanlin Song</label>
+                </div>
+        </div>
+        <input type="submit" name="go" id="Search" value="Go" title="Go" class="btn btn--tiny">
+        <input id="DOI" name="DOI" type="hidden" value="C7TC00038C" />
+        <input id="selectedAuthors" name="selectedAuthors" type="hidden" value="" />
+    </div>
+</form>
+                                <input id="authors" name="authors" type="hidden" value="AAEAAAD/////AQAAAAAAAAAMAgAAAGNSU0NwdWJzLmVQbGF0Zm9ybS5TZXJ2aWNlLkRhdGFDb250cmFjdHMsIFZlcnNpb249MjAxOC4wLjU0OS4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwEAQAAAMMBU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tSU0NwdWJzLmVQbGF0Zm9ybS5TZXJ2aWNlLkRhdGFDb250cmFjdHMuU2VhcmNoLkF1dGhvckluZm8sIFJTQ3B1YnMuZVBsYXRmb3JtLlNlcnZpY2UuRGF0YUNvbnRyYWN0cywgVmVyc2lvbj0yMDE4LjAuNTQ5LjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbF1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAA7UlNDcHVicy5lUGxhdGZvcm0uU2VydmljZS5EYXRhQ29udHJhY3RzLlNlYXJjaC5BdXRob3JJbmZvW10CAAAACAgJAwAAAAMAAAADAAAABwMAAAAAAQAAAAQAAAAEOVJTQ3B1YnMuZVBsYXRmb3JtLlNlcnZpY2UuRGF0YUNvbnRyYWN0cy5TZWFyY2guQXV0aG9ySW5mbwIAAAAJBAAAAAkFAAAACQYAAAAKBQQAAAA5UlNDcHVicy5lUGxhdGZvcm0uU2VydmljZS5EYXRhQ29udHJhY3RzLlNlYXJjaC5BdXRob3JJbmZvDQAAABo8R2l2ZW5OYW1lPmtfX0JhY2tpbmdGaWVsZBo8Rmlyc3ROYW1lPmtfX0JhY2tpbmdGaWVsZBs8RmFtaWx5TmFtZT5rX19CYWNraW5nRmllbGQiPEdpdmVuTmFtZU5vTWFya3VwPmtfX0JhY2tpbmdGaWVsZCI8Rmlyc3ROYW1lTm9NYXJrdXA+a19fQmFja2luZ0ZpZWxkIzxGYW1pbHlOYW1lTm9NYXJrdXA+a19fQmFja2luZ0ZpZWxkFTxUeXBlPmtfX0JhY2tpbmdGaWVsZBw8Rmlyc3RBdXRob3I+a19fQmFja2luZ0ZpZWxkHDxBZmZpbGlhdGlvbj5rX19CYWNraW5nRmllbGQgPEFmZmlsaWF0aW9uSW5mbz5rX19CYWNraW5nRmllbGQVPFJvbGU+a19fQmFja2luZ0ZpZWxkITxBZmZpbGlhdGlvbkNvZGVzPmtfX0JhY2tpbmdGaWVsZB48UXVhbGlmaWVyTmFtZT5rX19CYWNraW5nRmllbGQBAQEBAQEEAAEDAQMBOVJTQ3B1YnMuZVBsYXRmb3JtLlNlcnZpY2UuRGF0YUNvbnRyYWN0cy5TZWFyY2guQXV0aG9yVHlwZQIAAAAByAFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW1JTQ3B1YnMuZVBsYXRmb3JtLlNlcnZpY2UuRGF0YUNvbnRyYWN0cy5TZWFyY2guQWZmaWxpYXRpb25JbmZvLCBSU0NwdWJzLmVQbGF0Zm9ybS5TZXJ2aWNlLkRhdGFDb250cmFjdHMsIFZlcnNpb249MjAxOC4wLjU0OS4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGxdXX9TeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW1N5c3RlbS5TdHJpbmcsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OV1dAgAAAAYHAAAABE1lbmcJBwAAAAYIAAAAA0dhbwYJAAAABE1lbmcJCQAAAAYKAAAAA0dhbwX1////OVJTQ3B1YnMuZVBsYXRmb3JtLlNlcnZpY2UuRGF0YUNvbnRyYWN0cy5TZWFyY2guQXV0aG9yVHlwZQEAAAAHdmFsdWVfXwAIAgAAAAAAAAABBgwAAAAJYWZmYSBhZmZiCQ0AAAAKCQ4AAAAGDwAAAAABBQAAAAQAAAAGEAAAAAZMaWhvbmcJEAAAAAYRAAAAAkxpBhIAAAAGTGlob25nCRIAAAAGEwAAAAJMaQHs////9f///wAAAAAABhUAAAAEYWZmYQkWAAAABhcAAAAGY29ycmVzCRgAAAAJDwAAAAEGAAAABAAAAAYaAAAABllhbmxpbgkaAAAABhsAAAAEU29uZwYcAAAABllhbmxpbgkcAAAABh0AAAAEU29uZwHi////9f///wAAAAAABh8AAAAEYWZmYQkgAAAABiEAAAAGY29ycmVzCSIAAAAJDwAAAAQNAAAAyAFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW1JTQ3B1YnMuZVBsYXRmb3JtLlNlcnZpY2UuRGF0YUNvbnRyYWN0cy5TZWFyY2guQWZmaWxpYXRpb25JbmZvLCBSU0NwdWJzLmVQbGF0Zm9ybS5TZXJ2aWNlLkRhdGFDb250cmFjdHMsIFZlcnNpb249MjAxOC4wLjU0OS4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGxdXQMAAAAGX2l0ZW1zBV9zaXplCF92ZXJzaW9uBAAAQFJTQ3B1YnMuZVBsYXRmb3JtLlNlcnZpY2UuRGF0YUNvbnRyYWN0cy5TZWFyY2guQWZmaWxpYXRpb25JbmZvW10CAAAACAgJJAAAAAIAAAACAAAABA4AAAB/U3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tTeXN0ZW0uU3RyaW5nLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldXQMAAAAGX2l0ZW1zBV9zaXplCF92ZXJzaW9uBgAACAgJJQAAAAIAAAACAAAAARYAAAANAAAACSYAAAABAAAAAQAAAAEYAAAADgAAAAknAAAAAgAAAAIAAAABIAAAAA0AAAAJKAAAAAEAAAABAAAAASIAAAAOAAAACSkAAAACAAAAAgAAAAckAAAAAAEAAAAEAAAABD5SU0NwdWJzLmVQbGF0Zm9ybS5TZXJ2aWNlLkRhdGFDb250cmFjdHMuU2VhcmNoLkFmZmlsaWF0aW9uSW5mbwIAAAAJKgAAAAkrAAAADQIRJQAAAAQAAAAGLAAAAAFhBi0AAAABYg0CByYAAAAAAQAAAAQAAAAEPlJTQ3B1YnMuZVBsYXRmb3JtLlNlcnZpY2UuRGF0YUNvbnRyYWN0cy5TZWFyY2guQWZmaWxpYXRpb25JbmZvAgAAAAkqAAAADQMRJwAAAAQAAAAGLwAAAAEqBjAAAAABYQ0CBygAAAAAAQAAAAQAAAAEPlJTQ3B1YnMuZVBsYXRmb3JtLlNlcnZpY2UuRGF0YUNvbnRyYWN0cy5TZWFyY2guQWZmaWxpYXRpb25JbmZvAgAAAAkqAAAADQMRKQAAAAQAAAAJLwAAAAYzAAAAAWENAgUqAAAAPlJTQ3B1YnMuZVBsYXRmb3JtLlNlcnZpY2UuRGF0YUNvbnRyYWN0cy5TZWFyY2guQWZmaWxpYXRpb25JbmZvCwAAAB48QWZmaWxpYXRpb25JZD5rX19CYWNraW5nRmllbGQhPE9yZ2FuaXNhdGlvbk5hbWU+a19fQmFja2luZ0ZpZWxkGDxBZGRyZXNzPmtfX0JhY2tpbmdGaWVsZBU8Q2l0eT5rX19CYWNraW5nRmllbGQZPFBvc3Rjb2RlPmtfX0JhY2tpbmdGaWVsZBg8Q291bnRyeT5rX19CYWNraW5nRmllbGQXPEVtYWlscz5rX19CYWNraW5nRmllbGQUPEZheD5rX19CYWNraW5nRmllbGQWPFBob25lPmtfX0JhY2tpbmdGaWVsZBQ8VXJsPmtfX0JhY2tpbmdGaWVsZCA8T3JnYW5pemF0aW9uVXJsPmtfX0JhY2tpbmdGaWVsZAEBAQEBAQMBAQEDf1N5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkxpc3RgMVtbU3lzdGVtLlN0cmluZywgbXNjb3JsaWIsIFZlcnNpb249NC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XV1/U3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tTeXN0ZW0uU3RyaW5nLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldXQIAAAAGNAAAAAFhBjUAAABVS2V5IExhYm9yYXRvcnkgb2YgR3JlZW4gUHJpbnRpbmcsIEluc3RpdHV0ZSBvZiBDaGVtaXN0cnksIENoaW5lc2UgQWNhZGVteSBvZiBTY2llbmNlcwkPAAAABjcAAAAOQmVpamluZyAxMDAxOTAJDwAAAAY5AAAAC1AuIFIuIENoaW5hCToAAAAJDwAAAAkPAAAACQ8AAAAJPAAAAAErAAAAKgAAAAY9AAAAAWIGPgAAAFdTY2hvb2wgb2YgQ2hlbWlzdHJ5IGFuZCBDaGVtaWNhbCBFbmdpbmVlcmluZywgVW5pdmVyc2l0eSBvZiBDaGluZXNlIEFjYWRlbXkgb2YgU2NpZW5jZXMJDwAAAAZAAAAADkJlaWppbmcgMTAwMDQ5CQ8AAAAGQgAAAAtQLiBSLiBDaGluYQlDAAAACQ8AAAAJDwAAAAkPAAAACUUAAAABOgAAAA4AAAAJRgAAAAIAAAACAAAAATwAAAAOAAAACUcAAAAAAAAAAAAAAAFDAAAADgAAAAlHAAAAAAAAAAAAAAABRQAAAA4AAAAJRwAAAAAAAAAAAAAAEUYAAAAEAAAABkgAAAAYbGlsaWhvbmcxMjA5QGljY2FzLmFjLmNuBkkAAAASeWxzb25nQGljY2FzLmFjLmNuDQIRRwAAAAAAAAAL" />
+                            </div>
+                        </div>
+                    </div>
+                    
+
+                    
+                    <div class="tab__panel" id="pnlCitation" aria-hidden="true" aria-labelledby="btnCitation" data-loaded="false">
+                        <div class="autopad--h fixpadv--m">
+                            <a href="#btnCitation" class="acc__link" aria-label="You are in the 'Cited by' tab: Press Enter to return to tab navigation.">Back to tab navigation</a>
+                                    <div id="divCitation">
+                                        <p>
+                                            <img src="https://www.rsc-cdn.org/pubs-core/2018.0.549/content/NewImages/Ajax-GA-Loader.gif" alt="" style="float:left" />
+                                            Fetching data from CrossRef.<br />
+                                            This may take some time to load.
+                                        </p>
+                                    </div>
+                        </div>
+                    </div>
+                    
+
+                    
+                        <div class="tab__panel" id="pnlRelatedContent" aria-hidden="true" aria-labelledby="btnRelatedContent" data-loaded="false">
+                            <div class="autopad--h fixpadv--m">
+                                <a href="#btnRelatedContent" class="acc__link" aria-label="You are in the 'Related' tab: Press Enter to return to tab navigation.">Back to tab navigation</a>
+                                <div id="divRelatedContent">
+                                    <p>
+                                        <img src="https://www.rsc-cdn.org/pubs-core/2018.0.549/content/NewImages/Ajax-GA-Loader.gif" alt="Loading related content" />
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+
+
+            </section>
+<section class="layout__content layout__content--padded text--centered">
+    <h3 class="h--heading4">Spotlight</h3>
+    <div id='div-dfp-ad-1' class="dfp-ad__slot--mpu">
+        <script>googletag.cmd.push(function() { googletag.display('div-dfp-ad-1'); });</script>
+    </div>
+    <h3 class="h--heading4">Advertisements</h3>
+    <div id='div-dfp-ad-2' class="dfp-ad__slot--mpu">
+        <script>googletag.cmd.push(function() { googletag.display('div-dfp-ad-2'); });</script>
+    </div>
+    <div id='div-dfp-ad-3' class="dfp-ad__slot--mpu">
+        <script>googletag.cmd.push(function() { googletag.display('div-dfp-ad-3'); });</script>
+    </div>
+</section>
+        </div>
+    </div>
+
+</div>
+
+            </div>
+        </div>
+    </div>
+
+    <div data-id="pnlGlobalFooter">
+        <div class="rsc-ui">
+            <!-- start oxygen footer -->
+            <footer class="rsc-footer">
+                <div class="breadcrumbs">
+                    <div class="viewport">
+                        <ul>
+                            <li class="extra"><a href="http://www.rsc.org">rsc.org</a></li>
+                            <li>
+                                <img src="https://www.rsc-cdn.org/pubs-core/2018.0.549/content/NewImages/chevron-right.png" width="8" height="8" alt="" />
+                                <a href="/" class="selected">Journals, books &amp; databases</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class='nav' id='pnlSiteMap'>
+                    <div class='viewport'>
+                        <div class='rsc-logo'>
+                            <img src='https://www.rsc-cdn.org/oxygen/v2/logo/rsc-logo-rev.png' width='180' height='120' alt='Royal Society of Chemistry homepage'>
+                        </div>
+                        <div class='qa-logo'>
+                            <img src='https://www.rsc-cdn.org/oxygen/v2/images/queens-award-ftr.png' width='100' height='160' alt=''>
+                        </div>
+                        <div class='links'>
+                            <ul>
+                                <li><a href='http://www.rsc.org/'>Home</a></li>
+                                <li><a href='http://www.rsc.org/about-us/'>About us</a></li>
+                                <li><a href='http://www.rsc.org/membership-and-community/'>Membership &#38; professional community</a></li>
+                                <li><a href='http://www.rsc.org/campaigning-outreach/'>Campaigning &#38; outreach</a></li>
+                                <li><a href='http://www.rsc.org/journals-books-databases/'>Journals, books &#38; databases</a></li>
+                                <li><a href='http://www.rsc.org/resources-tools/'>Resources &#38; tools</a></li>
+                                <li><a href='http://www.rsc.org/news-events/'>News&#160;&#38; events</a></li>
+                                <li><a href='http://www.rsc.org/locations-contacts/'>Locations &#38; contacts</a></li>
+                                <li><a href='http://www.rsc.org/careers/'>Careers</a></li>
+                                <li><a href='http://www.rsc.org/awards-funding/'>Awards &#38; funding</a></li>
+                                <li><a href='http://www.rsc.org/advertise/'>Advertise</a></li>
+                                <li><a href='http://www.rsc.org/help-legal/'>Help &#38; legal</a></li>
+                                <li><a href='http://www.rsc.org/help-legal/'>Privacy policy</a></li>
+                                <li><a href='http://www.rsc.org/help-legal/'>Terms &#38; conditions</a></li>
+                            </ul>
+                        </div>
+                        <hr class='clear'>
+                    </div>
+                </div>
+                <div class='baseline'>
+                    <div class='viewport'>
+                        <div class='social-icons'>
+                            <a href='https://www.facebook.com/RoyalSocietyofChemistry' class='facebook'><span>Facebook</span><img src='https://www.rsc-cdn.org/oxygen/v2/images/icons/facebook.png' height='32' width='32' alt=''></a>
+                            <a href='https://twitter.com/RoySocChem' class='twitter'><span>Twitter</span><img src='https://www.rsc-cdn.org/oxygen/v2/images/icons/twitter.png' height='32' width='32' alt=''></a>
+                            <a href='https://www.linkedin.com/company/23105' class='linkedin'><span>LinkedIn</span><img src='https://www.rsc-cdn.org/oxygen/v2/images/icons/linkedin.png' height='32' width='32' alt=''></a>
+                            <a href='https://www.youtube.com/user/wwwRSCorg' class='youtube'><span>Youtube</span><img src='https://www.rsc-cdn.org/oxygen/v2/images/icons/youtube.png' height='32' width='32' alt=''></a>
+                            <a href='https://plus.google.com/113399675911040898889' class='googleplus'><span>Google Plus</span><img src='https://www.rsc-cdn.org/oxygen/v2/images/icons/googleplus.png' height='32' width='32' alt=''></a>
+                        </div>
+                        <div class='copyright'>
+                            &#169; Royal Society of Chemistry 2018<br>Registered charity number: 207890
+                        </div>
+                    </div>
+                </div>
+                <hr class='clear'>
+            </footer>
+            <!-- end oxygen footer -->
+        </div>
+    </div>
+
+    <div class="modal__canvas modal__canvas--clickclose">
+    </div>
+
+    <script type="text/javascript">
+        //<![CDATA[
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.setAttribute("defer", "defer");
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+        //]]>
+    </script>
+
+    
+</body>
+</html>
