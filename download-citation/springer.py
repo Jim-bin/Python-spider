@@ -100,7 +100,7 @@ def royal(article_urls):
             authors = bsop.findAll('meta', {'name': 'citation_author'})
             for author in authors:
                 # print(author)
-                author = author.attrs['content']
+                author = author.attrs['content'].split(" ")
                 # print(author)
                 author = author[-1] + ', ' + ' '.join(author[:-1])
                 f.write('A1  - ' + author + '\n')
